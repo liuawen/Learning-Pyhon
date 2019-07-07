@@ -1,0 +1,2090 @@
+﻿
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?77dc9a9d49448cf5e629e5bebaa5500b";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script><!DOCTYPE html>
+<html xmlns="//www.w3.org/1999/xhtml" xml:lang="zh" lang="zh">
+<head>
+<title>大学列表_中国大学MOOC(慕课)</title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8"/>
+<link rel="shortcut icon" href="//edu-image.nosdn.127.net/32a8dd2a-b9aa-4ec9-abd5-66cd8751befb.png?imageView&quality=100" />
+<meta http-equiv="x-dns-prefetch-control" content="on"/>
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta itemprop="name" content="大学列表"/>
+<link rel="dns-prefetch" href="//s.stu.126.net"/>
+<link rel="dns-prefetch" href="//icourse163.org/"/>
+<link rel="dns-prefetch" href="//mc.stu.126.net"/>
+<link rel="dns-prefetch" href="//mooc.study.163.com"/>
+<link rel="dns-prefetch" href="//webzj.reg.163.com"/>
+<link rel="dns-prefetch" href="//ursdoccdn.nosdn.127.net/"/>
+<link rel="dns-prefetch" href="//nos.netease.com"/>
+<link rel="dns-prefetch" href="//imgsize.ph.126.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//img-ph-mirror.nosdn.127.net"/>
+<link rel="dns-prefetch" href="//push.zhanzhang.baidu.com"/>
+<link rel="dns-prefetch" href="//api.share.baidu.com"/>
+<link rel="dns-prefetch" href="//js.passport.qihucdn.com"/>
+<link rel="dns-prefetch" href="//s2.qhimg.com"/>
+<meta http-equiv="Pragma" content="no-cache"/>
+<meta http-equiv="Cache-Control" content="no-cache" max-age="0"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta http-equiv="Expires" content="0"/>
+<meta name="author" content="Netease"/>
+<meta name="version" content="1.0"/>
+<meta name="keywords" content="中国大学MOOC 大学列表,中国大学MOOC（慕课）"/>
+<meta name="description" itemprop="description" content="这里是中国大学MOOC平台上所有入驻大学和机构的名单列表，你可以查看你喜欢的学校在中国大学MOOC平台上开设的课程和开课的教师名单！,中国大学MOOC（慕课）"/>
+<meta name="robots" content="all"/>
+<meta name="360-site-verification" content="92d0cfcc97ca254f26fcc0586fa319b6" />
+<meta name="sogou_site_verification" content="kFeGWcT6tD"/>
+<meta name="baidu-site-verification" content="BYFmFBILbh" />
+<meta name="shenma-site-verification" content="8ef752d11066ef909303c078d32230d6_1456214698">
+<meta property="wb:webmaster" content="981d7778ffe598a6" />
+<meta property="qc:admins" content="2206160020613752351636727736372561577477166045" />
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libEsShim_0e05204ba68c8863b2c2758466388378.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libBabelPolyfill_0a68affc0dfe25556061f0c6482504f0.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libMoment_afb34315eef15ca86723c56885e6127f.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libClamp_7c4afc5c2e098e22b94d3c3fdac6edea.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libDevice_70d69446a592ed53bab12b22bca6200a.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libRxJS_7f27cccc1cc810f59b4daed7605cf42b.js"></script>
+<script type="text/javascript" src="//urswebzj.nosdn.127.net/webzj_cdn101/message.js"></script>
+<script type="text/javascript" src="//acstatic-dun.126.net/tool.min.js"></script><script>location.config = {root:'/pub/h/',mode:1,ver:{"about/shared/modules/about/index.html":"3d516eed11ea267a3d38a56f546e02d9","activities/mooc4year/wap/components/mooc4year-act/component.html":"39160ed385a86959ec7e8cf9f998bcfc","activities/mooc4year/wap/components/mooc4year-actadd/component.html":"8b861dafe65eff9ad07a1ea3d83aa0a7","activities/mooc4year/wap/components/mooc4year-actindex/component.html":"49369dd606109410c1a63c7de5862336","activities/mooc4year/wap/components/mooc4year-actrank/component.html":"2c0dfe0771d3202183aba861527e32eb","activities/mooc4year/web/components/mooc4year-act/component.html":"7fd5d8d0dc4ad0bc05b915962f06d707","activities/mooc4year/web/components/mooc4year-actadd/component.html":"f9c0563b87aa605690c97637a8d202c5","activities/mooc4year/web/components/mooc4year-actindex/component.html":"1ffce0b170399ac0ebda4e5e2ae528f3","activities/mooc4year/web/components/mooc4year-actrank/component.html":"dbefa56a38af15de70c677800d732b77","activities/newUserCoupon/components/boutique-class-card/wap/component.html":"e6506e82008d3915e8d64d4be6c218dc","activities/newUserCoupon/components/boutique-class-card/web/component.html":"7be9e2dad14bc47c1585941707c2e2e8","activities/newUserCoupon/components/header/wap/component.html":"c22826b61abd5a87fd23230e84588bfc","activities/newUserCoupon/components/header/web/component.html":"af30f8a012f28ac9cc9e135a83a2f620","activities/newUserCoupon/components/recommend-content/wap/component.html":"5e40646c87f3ef33103a7024cbc62d5c","activities/newUserCoupon/components/recommend-content/web/component.html":"ad7cf0bb8bc6a17d6725eceafb9f1c1a","category/index/desktop/components/courseCardBox/courseCardBox.html":"846440eba185e49ccc9a5b917454626a","category/index/desktop/components/courseCardList/courseCardList.html":"ecd4375293ff517683c38252d77da271","category/index/desktop/components/courseCardList/courseCardTemplate.html":"d0cec18a71f32e3373e4a3f10d036247","category/index/desktop/components/nav/nav.html":"44ea11cc30a079eca97fb1f63774b740","category/index/desktop/components/sideBar/sideBar.html":"8f44054a7cef28976b8cd86995a7b0ee","category/index/desktop/components/tagBar/tagBar.html":"34f64557e9ee07aba494c4a6f4818fac","category/index/mobile/components/courseCardBox/courseCardBox.html":"8f08a62d385f9286ceda6e28ac19d968","category/index/mobile/components/courseCardList/courseCardList.html":"ecd4375293ff517683c38252d77da271","category/index/mobile/components/courseCardList/courseCardTemplate.html":"8bb32c35040c0f4bc116ea1969744b72","category/index/mobile/components/scrollPager/component.html":"817c880008d86822678f78996e90071a","category/index/mobile/components/specialDisplayUI.html":"e147ebace33b4d2b1f7cbad6b989ff7a","category/index/mobile/components/wapCateNavList.html":"209800efeda9a961b06a66f8ec8063ba","category/index/mobile/components/wapCateWrapUI.html":"0e5c665fdc0c0f167d650ea8905a6ee5","category/index/mobile/components/wapColumnCardTpl.html":"13009ed925f8592ec15fc95d9b341a99","category/index/mobile/components/wapCourseCard.html":"8e2c0d6cf00f9383f952a3c4f692b0b9","category/index/mobile/components/wapCourseList.html":"93f554561b4b1dafe6768cff2f974829","category/index/mobile/components/wapKaoyanCardTpl.html":"ad51b4aa569febef875d5e840c6f32cf","category/index/mobile/components/wapMoocCardTpl.html":"be724e681925ecdcdf86745bb21b4cd6","cert/shared/modules/apply/index.html":"1bf3a229d387baba82ec071615067597","cert/shared/modules/certDesign/index.html":"b45b483a4325cd688d4100b4ded0daf7","cert/shared/modules/verify/index.html":"53a056d892853af52a93b37ef92181ed","cms/components/appCallCms/appCallCms.html":"a1a80b820eefaed06daf6f41386fb5c2","cms/components/qiyuEntry/qiyuEntry.html":"6b8983efcdefbcc9e5908c7f0a7c15e6","column/audioContent/articleSnapUp/mobile/components/shared-article-snap-up/component.html":"4a364e2ad2afa7a2bb06b9c0939601ab","column/audioContent/articleSnapUp/mobile/components/subscribe-button/component.html":"61e0937991f6ff24f0055fe7d61b8ddf","column/freeArticles/mobile/components/free-articles/component.html":"e81a5f0a89e6ebc0a8099a622e43a4e7","column/intro/mobile/components/call-app-banner-wrapper/component.html":"edfaa201cd75f5a651203dfa2671cee0","column/intro/shared/components/column-coupon/component.html":"029c6ba4b09b65b3b8cee3e73cf4af9e","column/intro/shared/components/column-intro/wap/component.html":"e34ca34200aa3a06afbf5654fcb5f60b","column/intro/shared/components/column-intro/web/component.html":"f2d643877c193141f13a7edcb1559c22","column/intro/shared/components/promotion-container/component.html":"915605ef2e9267d7c7345ac7080d0651","column/intro/shared/components/promotion-modal/component.html":"466f0a2055ed36e704fa5f51200f590f","column/shared/components/action-buttons/component.html":"9fcb440ca07542ac98abf21adb400df1","column/shared/components/audio-content/wap/component.html":"47052acfe4ccb848bde22de06c6ed215","column/shared/components/audio-content/web/component.html":"c23fc3da822402298b0f434634f5c427","column/shared/components/audio-player/wap/component.html":"56df8a627c34355a02c5b1e15a68ee0d","column/shared/components/audio-player/web/component.html":"1250781dec8a3803b718bde9c071d98c","column/shared/components/columns-card/shared/component.html":"2d3c79643d6e862b6fec54bf6c3625b1","column/shared/components/columns-card/wap/component.html":"4ddf8bbf97ee9d661a60efefa0bd238e","column/shared/components/order-modal/component.html":"b445a081c48033fe48b2da4e6ac634df","column/shared/components/selected-comments/component.html":"81374f7e014c5e19483e6c8f25f98c9f","course/intro/desktop/components/moocModal/index.html":"8395bd309f3a1d66e0b1b0bbf1bdc411","course/intro/desktop/components/outline/component.html":"867288647cf589541d85b9b3a5e6b9d9","course/intro/desktop/components/scholarNotifyModal/index.html":"65973f21256483b51a7e17ca1f0420b7","course/intro/desktop/components/teacher-list/component.html":"3ba74eb0e1c0d96fe9581c122635fc33","course/intro/desktop/components/teacher-list/template.html":"292f180d90e3e74eb581c06d2d034c84","course/intro/desktop/modules/info/index.html":"7f008a0e42dc325322f0e95bb506c077","course/intro/mobile/components/outline/statics/desktop.html":"8e7b91959123dbc991aefba656a40780","course/intro/mobile/components/outline/statics/mobile.html":"a314b8eac7a3a3dfa485f3c8afa04e72","course/intro/mobile/modules/courseDetail/index.html":"82b8b9018cdd1d6a49b921c3de6c8b85","course/intro/shared/components/breadcrumb/web/component.html":"85fcd920fd7851791c39a1fa40b0bfd7","course/intro/shared/components/course-enroll-info/web/component.html":"689aa4b1be8e094578b563ca93c9675c","course/intro/shared/components/term-password-modal/web/component.html":"c13637d050dfe73f1329c2eaf943ff02","donate/course/desktop/modules/donate/index.html":"156ae16370cd627dc9371c9ebca59b75","error/systemError/shared/modules/error/index.html":"c15defb4ffd05a3be5ece26e6569014e","forum/index/shared/components/forum/index.html":"d871c0fe60e6f9d4a376b36562bff332","forum/newPost/shared/components/publish/index.html":"20a37b467ec697018de8059d7ecf10d9","forum/person/shared/components/personWrapper/index.html":"f96555a8aa9e7429e59176fd448267a7","forum/person/shared/components/rcList/index.html":"27c0369019a36575b22608b468b5d1f0","forum/person/shared/components/simplePersonUI/index.html":"10d2a1a38d88bd6d607b054dc050d376","forum/shared/components/forumItem/index.html":"c4db1293bfb8152a9792733a39a0cf29","forum/shared/components/forumList/index.html":"842b36e03df8b09a820a6c2b9d31e83c","forum/shared/components/personUI/index.html":"da09fa8937527e4b661c6c6bc5c0a8b6","forum/topic/desktop/components/commentItem.html":"5fab9ff563fffcf959e056e9fba2c3eb","forum/topic/desktop/components/commentList.html":"3e6aff50e0bf2b1526b61adfb68d0500","forum/topic/desktop/components/hoverManageList.html":"9bca3690e40c7404c9625503c0a26575","forum/topic/desktop/components/replyItem.html":"14cda4788539108760062fb989f63e8f","forum/topic/desktop/components/replyList2.html":"2d4c784cda2a82480cbeed010d87c0a1","forum/topic/desktop/components/selectTagModal.html":"4d4a241fadf8bdc953fc417fba969c4b","forum/topic/desktop/components/setTopTagModal.html":"8f3c00ced5695bd2aed9d440f58dd065","help/help/desktop/modules/helpFront/index.html":"8a86dc065d05642c009e21fae4f741cc","help/manageHelp/desktop/modules/helpBack.html":"4f1523656d0884c53292339a00e0beac","home/desktop/components/certCard/component.html":"3fde956421541ad8b9a866602acfb258","home/desktop/components/coursePanel/coursePanel.html":"4cc151de6818848af27d7fa7b1dd704f","home/desktop/components/coursePanel/coursePanelBody/component.html":"5bfb275b140ffd733574ab4885b8c42a","home/desktop/components/coursePanel/coursePanelBody/courseCard/component.html":"30949e33aed5411525c470fae194210f","home/desktop/components/enrolledCourse/enrolledCourse.html":"38a4f0828fcf297c7b5e952680156214","home/desktop/components/enrolledCourse/enrolledCourseBody/component.html":"5a62601516e70c7e0dc8e2c30779e80f","home/desktop/components/enrolledCourse/enrolledCourseBody/enrolledCourseCard/component.html":"e77fe9d68187dd0ed8a3f0b9e09ca233","home/desktop/components/learningPlan/courseCardWithScore/component.html":"329bb1754b285f9cbbbe8c79d478119e","home/desktop/components/learningPlan/courseList/component.html":"71391ea1972504eff35c9c2c02ce8f92","home/desktop/components/learningPlan/index/component.html":"fe9159d30d7371a7e99340ac6b9c4a28","home/desktop/components/learningPlan/learningDetail/component.html":"8ba268763194f4b8d57eb4a86f1762c7","home/desktop/components/learningPlan/learningGoal/component.html":"b08e95668705dbef3ce13b69481497f3","home/desktop/components/learningPlan/learningState/component.html":"92099a370388930f2a5a990d99de21a5","home/desktop/components/learningPlan/learningTask/component.html":"84943a4611098541e798d8fee8d4afd6","home/desktop/components/learningPlan/selfDefineModal/component.html":"dfe765adb38e947615b8c68eedea03bb","home/desktop/components/otherLearn/component.html":"327ca7b69910500a820be81414364ca6","home/desktop/components/personalProfileGuide/fillPersonalIntro.html":"c71ea4bb713cdaee313a2b485f495a68","home/desktop/components/personalProfileGuide/personalProfileGuide.html":"d1174fbc1f2953b6d73982086c11f313","home/desktop/components/personalProfileGuide/selectEducation.html":"28ea4713d74a241952fd733b4e74b7e0","home/desktop/components/personalProfileGuide/selectOccupation.html":"5fe31611ae753d189198bcdeeb0dd32f","home/desktop/components/personalProfileGuide/selectProfileType.html":"b89f06361f96312412a60c02ec53b8c3","home/desktop/components/study-plan-panel/statics/desktop.html":"045ea88e971683e953cec90c06448e80","home/desktop/components/study-plan-statistics/statics/desktop.html":"ded82625145b0f11c42a2b32bd954608","home/desktop/components/study-plan-week-days/statics/desktop.html":"1234e2469b193efc97a5d8be55560c29","home/desktop/components/study-today-mission/statics/desktop.html":"831f575bdb9635ab4d1f1a2c7fb1c5a2","home/desktop/components/userInfoTop/component.html":"108d28569456bbcc997cb703ca6b63dd","home/desktop/modules/course/index.html":"61a5ed877cd6e19a8e1f6454f3f0669f","home/desktop/modules/discuss/index.html":"f2cc1103d9d24d165076a5d35475eea3","home/desktop/modules/index/index.html":"7da5d7d6738dd34edf11e4cc4bb0d13d","home/desktop/modules/mycert/index.html":"e70a8cc1b5cabfe5662f60a8939b3f4e","home/desktop/modules/selfIntro/index.html":"6b207783e15f557e11821e846bb15c75","home/desktop/modules/spocCourse/index.html":"5cd7334d684a1a904f10e7c867ab7d0c","index/desktop/components/columnList/component.html":"69446f4e24b1a714a1594da3bf00b5db","index/desktop/components/courseRecent3/component.html":"74f9b4606f703f5142f6248e055992c5","index/desktop/components/discussBox/component.html":"606b5910de97e0f540e5f608fe78a27f","index/desktop/components/imageBox/component.html":"3046c0be509b7935c263a83ed89d3b74","index/desktop/components/indexStudent/component.html":"3c926bd4e6cbc699f9deb1d8a03e89a1","index/desktop/components/myCloudeGuide/component.html":"d755c43ed2b315177859ad3eddf82a6d","index/desktop/components/recCourse/component.html":"12725db887a655e0e846617db108d4a6","index/desktop/components/selfDefine/component.html":"5be95006c532b903594c2f9377c4999b","index/mobile/components/category/component.html":"2cb34ae713958abe02c7c96277bc7690","index/mobile/components/courseCard/component.html":"bf14d12f90e7619a4e70dd9b50cb67f1","index/mobile/components/courseList/component.html":"79f2213636037a60ecdb8ed34e26ecf5","index/mobile/components/courseLists/component.html":"f39bf35f1bb469b70a4634bc132f1e87","index/mobile/components/nav/component.html":"61f57bf8b4932d36c11f9ef947b4bd0d","junwei-app-course/courseDetail/mobile/components/course-detail-buy/component.html":"6740798f3fd0140b11efdc14078a916e","junwei-app-course/courseDetail/mobile/modules/courseDetail/index.html":"3f2a0fe0b950358182276f78910e3b97","junwei-app-course/courseLearn/mobile/modules/courseLearn.html":"97e6ddfd6e470554f6774ae54f7c55b8","learn/forum/mobile/components/commentItem.html":"a33233212a5a98441324870fcf39e748","learn/forum/mobile/components/replyItemUI.html":"c17012beb044cc89bc4c46169ea28271","learn/forum/mobile/components/wapForumDetailUI.html":"f7bc0f533e275f008038763167dcdab6","learn/index/desktop/components/common/notice.html":"0e5ccbe4016398fb6daabf914ba869ce","learn/index/desktop/components/lessonLiveWrapper/component.html":"3529fb785dbe0915c7efdf4877405539","learn/index/desktop/modules/learn/content.html":"051575625ed89d1dc3fe2f27a8fb6992","learn/index/desktop/modules/learn/exam.html":"bccc80783ba0a0198e7c7162f590512c","learn/index/desktop/modules/learn/forum.html":"8fa826f9fe8b8bb2305ea3befff6e225","learn/index/desktop/modules/learn/homework.html":"a96354291b0ce1eeb462c4d4805b7363","learn/index/desktop/modules/learn/notEnroll.html":"a4fd5c445a2e239db5b586a74e98d36e","learn/index/desktop/modules/learn/oj.html":"be7f965065f58b51f984f7164c311cf2","learn/index/desktop/modules/learn/task.html":"aa698d4518c6540e393f6fe350ab45ef","learn/index/desktop/modules/learn.html":"baebc0e267f15b875a52c4e46fe00edb","learn/video/mobile/components/wapLearnVideoUI.html":"a67b0a6b3c81e10234531eb470e2fdbd","live/liveRoom/desktop/components/startLiveModal/startLiveBody/component.html":"e1805788edfdb576468f42d15d86db44","live/liveRoom/desktop/module/module-live-room/src/component/instruction-modal/web/component.html":"2956dfd2e0ebd4cadc9ad0bc3d771560","live/liveRoom/desktop/module/module-live-room/src/component/room-list-view/component.html":"c84d4bc8f2e6022fffef1bc12d085802","live/liveRoom/desktop/module/module-live-room/src/component/start-modal-wrapper/web/component.html":"8995a4d4ace6cf0396460cad2f0ce73a","live/liveRoom/desktop/module/module-live-room/src/live-room/index.html":"5359194c9996f275c7d3e83a253d849e","live/openLive/desktop/components/column-live-intro/component.html":"3e9f23a6e602ffe9323dd1471d708249","live/openLive/desktop/components/livePresenterInfo/component.html":"fa4cdc96c617adb45ef9ecb52e672e1c","live/openLive/desktop/components/liveWrap/component.html":"5cd369d96ba6fa04a45ab559c367d584","live/openLive/desktop/components/openLiveWrapper/component.html":"ed372209fcd25ad644dfe8ef80b17cfb","live/openLive/desktop/components/openLiveWrapper/liveInfoHead/component.html":"206e72133ec44c598c658e12de3f0174","live/openLive/mobile/components/column-entry/component.html":"25db358fd599cc3bfabd3e4e9641341b","live/openLive/mobile/components/liveNotExistUI.html":"554f44d6c92f0bab1eb81cbbfe550999","live/openLive/mobile/components/marketing-content-entry/component.html":"810e29cf6e79dd06916c29d6ac93798f","live/openLive/mobile/components/marketing-content-list-modal/component.html":"f60d49ef35de980c461c490c14b2b2da","live/openLive/mobile/components/mobile-live-wrap/component.html":"79efaf1806ccb9c159fb10a5fc814541","live/openLive/mobile/components/playBackUI.html":"75d1db6499c40c77156e94721fe4200f","live/openLive/mobile/modules/index.html":"8f51e43d4255c4357f7cef585a130cf7","live/openLive/mobile/modules/playBack.html":"6976a739c9e7fb081c9b2afc38e676b5","live/openLive/shared/components/live-subscription/wap/component.html":"6236758eaa408c9633a7b1769818619c","live/openLive/shared/components/live-subscription/web/component.html":"97d3e47b91aab58e9201de0b86d562d5","member/addMemberInfo/desktop/modules/addMember/index.html":"85abdf726edc31a894dfd66534a4a39d","member/addMemberInfo/mobile/components/memberInfo/component.html":"b537b8e7ed98d5521fd207caac960cde","member/icourseLogin/desktop/modules/icourseLogin/index.html":"ad525b21029294ef70636174ef2fb699","member/login/desktop/components/icourse-login-form/wap/component.html":"b56a753eda5bb5051688a490cca10df9","member/login/desktop/components/icourse-login-form/web/component.html":"146cf4f3a0b6a705a62f7d01aef762b4","member/login/desktop/components/mooc-login-page/web/component.html":"ea838506692f2579dd7608344616562b","member/login/desktop/components/mooc-login-set/web/component.html":"3ad20a7431c07e59fca2cd69f1f01430","member/login/desktop/components/mooc-regist-wrap/web/component.html":"073de1a0b2a05b97a050b2036f6697b1","member/login/desktop/components/regist-wrap-pro/web/component.html":"aabbfeddb1342b5d780be59974ff459a","member/login/desktop/modules/loginIndex/index.html":"adebfc560bdebd27f079e140b090d11f","member/login/mobile/components/login-set-wap-pro/wap/component.html":"0a9ebe60ebf100988648a736d08f72d4","member/login/mobile/modules/loginEmail/index.html":"8c47f8ba23f061dacd05023b880fe813","member/login/mobile/modules/loginIcourse/index.html":"513eadffc0879d7bf0f3553cf21d246c","member/login/mobile/modules/loginIndex/index.html":"84374e91b13fe0d950404d3bffdf9d74","member/login/mobile/modules/loginTel/index.html":"cc8d3d8ba29313865c399709fad422d1","member/login/mobile/modules/registTel/index.html":"a18c18f89ff2ae9328209268b16da740","member/shared/modules/login/index.html":"02f4c67b2f597a4f4eac5194d0432ea1","member/ursLogin/desktop/modules/ursLogin/index.html":"226a7f8017d3af13fbda13b80ba901d0","order/index/components/address/wap/component.html":"7b7b9cf2bb9e982317557ef431d8849c","order/index/components/address/web/component.html":"976d3e76bee7f74b7677debc3027e1d5","order/index/components/confirm/component.html":"1140f339e067c7bf36ec0dba86ca9795","order/index/components/tel-info/component.html":"94d08908aa6611ab635b2202d0fb0c92","order/index/components/wap-phone/component.html":"ae91b5f3e7390ee1b421eddb1d2ea846","order/payOrder/desktop/components/pay-success-info/wap/component.html":"8a51dd635cac507f851c3832423c5795","order/payOrder/desktop/components/pay-success-info/web/component.html":"03048383dc426a0ee9f0adcea3720dfd","order/payOrder/desktop/components/pay-success-info1/wap/component.html":"3424a8e317f397db6d929f8f6f9be075","order/payOrder/desktop/components/pay-success-info1/web/component.html":"42c3a262ba9c55767729459f17b483dd","order/payOrder/desktop/modules/order/index.html":"798dc051c5feb512f7a0f1b985e5ebed","order/service/order-service-criteria/statics/desktop.html":"e02539b9bad9a541d2d0365d7ca6ed3f","order/service/order-service-head/statics/desktop.html":"796ee191723928a58c47904b2957c646","order/service/order-service-item/statics/desktop.html":"f2bacb409cd87ced3f74df9cc5f20cd5","order/service/order-service-list/statics/desktop.html":"c0507587cbbcba2c030d5bba38bdc75a","order/service/order-service-refund/statics/desktop.html":"03e86f2e1a21f94132a9bc9f3a97fef3","order/service/order-service-root/statics/desktop.html":"80bd0d201eb6a817a379587c2856077d","pay/index/desktop/components/pay-content/component.html":"a4d53cab94ebf3401770f9c7246a38e9","pay/index/desktop/components/wxpay-content/component.html":"7c6793cab9b91c8f7c51ecca67fe275a","pay/order/desktop/modules/pay/index.html":"4d9a5073a50fc4235203e24164909162","practice/practicePage/mobile/components/objectItem.html":"e961ed0aca4d1da8431dd1fa2365c090","practice/practicePage/mobile/components/objectPage.html":"e93ab417023fbec37aaee4e2d5a843c6","recommend/components/recommend-list/component.html":"f0ee0ef91ed6b35a45aed03e4c699115","recommend/components/recommend-modal/template.html":"2a92ff6648e8225d98d7d307b79d7270","scholarship2017/course/desktop/components/category-card/category-card.html":"b9444aba785ad2b383349c3fd08cb8ee","scholarship2017/course/desktop/components/category-cards/category-cards.html":"6db04fc4857acf2ea3799b77a42e479d","scholarship2017/course/desktop/components/category-tags/category-tags.html":"27c9e3729f88ff7651879f50c75847df","scholarship2017/course/mobile/components/category-card/category-card.html":"1c1c60058442fa27aabe410118e9e266","scholarship2017/course/mobile/components/category-cards/category-cards.html":"6db04fc4857acf2ea3799b77a42e479d","scholarship2017/course/mobile/components/category-tags/category-tags.html":"27c9e3729f88ff7651879f50c75847df","scholarship2017/index/shared/components/awards/wap/component.html":"3a477922c123ded8c4205d430a485abf","scholarship2017/index/shared/components/awards/web/component.html":"2c8ee3b9517ddfbea1bc514c92754342","scholarship2017/index/shared/components/common-questions/wap/component.html":"3424a8e317f397db6d929f8f6f9be075","scholarship2017/index/shared/components/common-questions/web/component.html":"1a1afbb83397cf8d719035cdca002cd7","scholarship2017/index/shared/components/course-assessment/wap/component.html":"beea39a091a52ad3a6503d0ef6242245","scholarship2017/index/shared/components/course-assessment/web/component.html":"c2ff448f9073b7971d5974d8aa1d147a","scholarship2017/index/shared/components/custom-activity/wap/component.html":"c2502638cd9c3e9d2c650a80e5f62edb","scholarship2017/index/shared/components/custom-activity/web/component.html":"f135ae27dd7bc95c4e303fe38313e909","scholarship2017/index/shared/components/index/wap/component.html":"d2a171c73d6106fbc1be4486f92f2df5","scholarship2017/index/shared/components/index/web/component.html":"608f9eb66bc1e316930d665c8146856e","scholarship2017/index/shared/components/invite-friends/components/invite-friends-modal/wap/component.html":"d28ac8176bb0c8c7b1fc0c88a5448b66","scholarship2017/index/shared/components/invite-friends/components/invite-friends-modal/web/component.html":"8a95d2ced0f89a81154e60d01d980bf4","scholarship2017/index/shared/components/invite-friends/wap/component.html":"12435f1470234c22c25c1961b3275d80","scholarship2017/index/shared/components/invite-friends/web/component.html":"9c0b7d59767a8e3ca9ef091751dccfd0","scholarship2017/index/shared/components/learning-goals/components/acquire-extra-bonus-modal/wap/component.html":"048ad4a2221239c46a6ef65bf0dec101","scholarship2017/index/shared/components/learning-goals/components/acquire-extra-bonus-modal/web/component.html":"b4818a094df58ea98ead1c31d5d436a9","scholarship2017/index/shared/components/learning-goals/components/radial-progress/wap/component.html":"aebb6b750dc648bd7a6f41867924990d","scholarship2017/index/shared/components/learning-goals/components/radial-progress/web/component.html":"0529fdc3e4d1bdcc6c05388466accf23","scholarship2017/index/shared/components/learning-goals/components/set-goals-modal/wap/component.html":"ad862051b01817d4aa6ee1ce02d09610","scholarship2017/index/shared/components/learning-goals/components/set-goals-modal/web/component.html":"e9824b1d8ffd47826fe8664bcd421031","scholarship2017/index/shared/components/learning-goals/wap/component.html":"408f2ce9f01e320ed1d92d48971773b9","scholarship2017/index/shared/components/learning-goals/web/component.html":"a422904f04a197be9da28d421ff136b4","scholarship2017/index/shared/components/personal-info-header/wap/component.html":"91f908e9a7dfb1d05d69238648907e5c","scholarship2017/index/shared/components/personal-info-header/web/component.html":"2db22ff864bac3933f8c14dccf7ac17d","scholarship2017/index/shared/components/rules/wap/component.html":"1627617b3fec74c28a18cfaf74fa11e0","scholarship2017/index/shared/components/rules/web/component.html":"71371291e4db2fd695bfc69713a3842b","scholarship2017/index/shared/components/shared/components/panel-wrapper/wap/component.html":"f87767cb400e87250175d95de2ee0c3f","scholarship2017/index/shared/components/shared/components/panel-wrapper/web/component.html":"7394877b6c27c89a0147219f52d4de19","scholarship2017/rank/desktop/components/rank/rank-final/index.html":"09fc2748cf9f5e8d8ba55ee5ccfd9892","scholarship2017/rank/desktop/components/rank/rank-invite/index.html":"74aef8d33a2e927df0dafba5b77b5a04","scholarship2017/rank/desktop/components/rank/rank-month/index.html":"6750b5a88ad51e1bd6f1d160d1d8443d","scholarship2017/rank/desktop/components/rank/rank.html":"20f9f4c7e9275792e36b0d182ec15998","scholarship2017/rank/mobile/components/rank/rank-final/index.html":"4bbaa95e81df7e775e9673323330e6dc","scholarship2017/rank/mobile/components/rank/rank-invite/index.html":"6e19e1ef9a5b78f497c63d1e8ef12365","scholarship2017/rank/mobile/components/rank/rank-month/index.html":"7b2f99514da00cee38b27516614ae53f","scholarship2017/rank/mobile/components/rank/rank.html":"2d33d40d3eb4e4bd851d9530fa517c72","scholarship2017/shared/components/modal-share-card/wap/component.html":"cf0ee5bd33aed3251023ca37cc341f7c","scholarship2017/shared/components/modal-share-card/web/component.html":"04f9948e2807cd5978e1263408b78ee0","scholarship2017/shared/components/scholarship-head/component.html":"6750880d60a112c876571f472f59b76c","scholarship2017/shared/components/scholarship-head/components/tabs/wap/component.html":"34bf69ddb9ac68e93e265448671dffad","scholarship2017/shared/components/scholarship-head/components/tabs/web/component.html":"1382c978e789added44196b6c286614b","scholarship2017/shared/components/share-ship-embedded/web/component.html":"e3a638463c186277f93743950ce58deb","scholarship2017/shared/components/tooltip/wap/component.html":"ef96bbde8a756340291b30e62db5acec","scholarship2017/shared/components/tooltip/web/component.html":"e41055f8c761ec8d4debe4a42863772b","scholarship2017/team/shared/components/influence-list/wap/component.html":"af8b634c21c02ced77a5c53b3007ba6a","scholarship2017/team/shared/components/influence-list/web/component.html":"084edebae68f994f97cc5b16f4566151","scholarship2017/team/shared/components/myteam-info/wap/component.html":"0b56989716301f1483c913d42fee08d5","scholarship2017/team/shared/components/myteam-info/web/component.html":"aa23d1dc9094cc836e0335c6c5a109ec","scholarship2017/team/shared/components/team-card/wap/component.html":"66b2cfa56546c09a39a9048f14581a81","scholarship2017/team/shared/components/team-card/web/component.html":"0161a08f04b218cea29fbe6185e7a385","scholarship2017/team/shared/components/team-create/wap/component.html":"d6e3c5aa1e77727269ce2c00d85f62e2","scholarship2017/team/shared/components/team-create/web/component.html":"3d849298b3f2a158e7fbb580c9c485e8","scholarship2017/team/shared/components/team-info-modal/wap/component.html":"a4b4799bf1fa84af2cb723b55ea89960","scholarship2017/team/shared/components/team-info-modal/web/component.html":"a4b4799bf1fa84af2cb723b55ea89960","scholarship2017/team/shared/components/team-list/wap/component.html":"be72c5d6031231be2df22033e1ed288a","scholarship2017/team/shared/components/team-list/web/component.html":"85e1bc814652ad3b9acf67ddd2f495dc","scholarship2017/team/shared/components/team-rank/wap/component.html":"448044f4cfefbd55eb4b8ca3815f0690","scholarship2017/team/shared/components/team-rank/web/component.html":"8e22da061c43daf0c6bdf53dd84a0f59","search/desktop/components/column-search-results/component.html":"b51b42bdc6fd6ad3da1239810af7c71d","search/mobile/components/searchBox/component.html":"4335b0085afc3e7da8fa71d8935a5cd7","shareLearnPlan/components/page/wap/component.html":"3f95652fe2fbfbb16e30d0bee8a9bfb0","shareLearnPlan/components/sharePage/wap/component.html":"fb0b8f70d37499dc5d231992d4b2f7ce","shared/components/IE8Supported/IE8Notice.html":"33bf194a5657717209898a9c9cac8192","shared/components/affix/component.html":"2c4fb63f394ab5e33750eff209d71ef0","shared/components/appCallBanner/appCallBanner.html":"ea9c54d8945c3719f91ef1dcbd2c9e2b","shared/components/banUserModal/wap/component.html":"c2055b5311c7c5e05a1832832590173c","shared/components/banUserModal/web/component.html":"acdc078b8c52a071e75d040a554dff2a","shared/components/baseui/commonui.html":"2f8dcb599a6fbef87ac77663f058d71c","shared/components/bind-phone-modal/wap/component.html":"0f4f73c1975b818ad7f31a22a42f4000","shared/components/bind-phone-modal/web/component.html":"04f120ae2a04cc79a765381e9da994ce","shared/components/call-app-banner/component.html":"61a2380be90eb0fb73dad1a6bf00ca77","shared/components/card/baseCourseCard/baseCourseCard.html":"300639bfa580e612e8487943dbdcee8f","shared/components/card/courseCardWithTime/component.html":"775ce0123c49ad8e8d3b2e9e35aa8250","shared/components/card/discussCardWithDetail/component.html":"8273f3ee01e020d53ffdcdee027a30ce","shared/components/card/discussCardWithQuote/component.html":"5a4fb19341b9886082630ecb67e41329","shared/components/card/liveCard/component.html":"ad5ecb64bad783aa5e92090c7e0acc98","shared/components/card/selfDefineNoDiscuss/component.html":"be7f3688a2ffa6ed28f706cd94ea6cf1","shared/components/card/selfDefineWithDiscuss/component.html":"a0e35c97bd93d5510dfb71253cf62cc1","shared/components/card/spocBaseCourseCard/component.html":"ca67e39685e8774d31ba7b8278938a1a","shared/components/card/studentCard/component.html":"e79e74ea94a6e6deb2c7c2953c1c4397","shared/components/course/spocCourseList/wap/component.html":"5032495fd62e5a4cf9abbd8bcf3f95b3","shared/components/course/spocCourseList/web/component.html":"37b50d653c0fc11d34673e930ce949b0","shared/components/crumb/crumb.html":"db9cdfd9bff175178249a75e8f8c7670","shared/components/custom-phone-bind-wrap/web/component.html":"a8c3941b073fd3b7ec8c9b6b989e61eb","shared/components/discuss/discussWrap.html":"55bcf23250b56dc4bbd14527ee7bf53a","shared/components/editor/editor.html":"63b554d44774c906cb76ffc4e185d03b","shared/components/emailTips/component.html":"f4a692f8bfb7b2c480fbcd6e2c7f0771","shared/components/empty/commonEmpty.html":"61d03bcbb9131efa935ad3c2cf139852","shared/components/error/statics/desktop.html":"fc61e0469492ea879def6df04918e934","shared/components/error/statics/mobile.html":"d55644a527ebb44fc1ca6c64728489c0","shared/components/followModal/followModalBody/component.html":"9095306d63fe4cd4ba81c33d5b7a91b3","shared/components/followModal/followModalBody/followModalUserBox/component.html":"9ee07a76f3caf298d5a8c150e883c78b","shared/components/followModal/followModalHead/component.html":"9d9fc3e22dbba583dc2a43dfd6c550c1","shared/components/followModal/followModalWrapper/component.html":"95adba04c69a6a57289003ace59f9efc","shared/components/general-coupon/component.html":"93749061bce4ea2284c704b4ee1bbb4b","shared/components/global-sticky-components/inquiry/component.html":"dd1e8da6f3ec6fae65952c968881c44c","shared/components/group-buy-list/shared/component.html":"e9f650a50d841ebc501cf7c44c9abf7e","shared/components/hoverTip/hover.html":"fa7f2776a5c14d4930b07a512f995a29","shared/components/interest-layer-modal/wap/component.html":"df916faef2a6389eb5f024d4fbbb3753","shared/components/interest-layer-modal/web/component.html":"124379d906523965015b961b52dfda99","shared/components/kaoyan-nav-web-package/nav/component.html":"af57f168ddd4e390a40a83eeedb33a79","shared/components/kaoyan-nav-web-package/nav-cate-button/component.html":"524861600a685f0c3aeb5747eaed4a6c","shared/components/kaoyan-nav-web-package/nav-person-info/component.html":"8438223a5966ee4e2e80da633e9a4796","shared/components/kaoyan-nav-web-package/nav-person-info-nologin/component.html":"8e7ec3b19965f8d366f5214b0b9e4047","shared/components/kaoyan-nav-web-package/nav-person-info-user-info/component.html":"285b8cfe8d159284bf941a39f83dcabb","shared/components/kaoyan-nav-web-package/nav-person-info-user-info-link-item-base/component.html":"5f9ab7e49d6dd7fef9afff167f63483d","shared/components/learnPlan/circleProcess/web/component.html":"f5a9c3b6ac68d968965c42729ddcf831","shared/components/learnPlan/coupon-card/wap/component.html":"bd3a1775d94f4886b8729bc6cdcdf914","shared/components/learnPlan/coupon-card/web/component.html":"9164fca9b444c7c73a6cd8ae599d655e","shared/components/learnPlan/couponList/web/component.html":"79a58435cafcbbd3207b6bb3b3c4c7f1","shared/components/learnPlan/dailyTargetProcess/web/component.html":"1f185f5f60001285df684647e310de40","shared/components/learnPlan/simpleCircleProcess/web/component.html":"573b7041b59bb00234b181b9c3c69137","shared/components/learnPlan/targetAchivedTag/web/component.html":"8157c5d3791b817eb9ef7698dc232b3e","shared/components/learnPlan/targetAchivedTagAward/coupon.html":"13bf112b31ab80c6d591a05920276fbd","shared/components/learnPlan/targetAchivedTagAward/web/component.html":"91299e2040033cb168c3d5841fd86a68","shared/components/learnPlan/targetAchivedTagShare/web/component.html":"353eddbf073bf3ba9b7cbf803576cac6","shared/components/list-slider/component.html":"46d0e26f8c9a46ecb8caca6625a62b30","shared/components/mobile-modal/wap/component.html":"ccd8a50f6619220d44775a96cef352dd","shared/components/nav/kaoyanWapNav/component.html":"2875863e3afb9de9c33d82480d3f1f4c","shared/components/nav/moocWapNav/component.html":"7466cc234758b567944f0134503b44b7","shared/components/obtainable-coupon/coupon-card/wap/component.html":"bd3a1775d94f4886b8729bc6cdcdf914","shared/components/obtainable-coupon/coupon-card/web/component.html":"9164fca9b444c7c73a6cd8ae599d655e","shared/components/obtainable-coupon/coupon-card-list-modal/wap/component.html":"a41ebdd3a53e2f045e2a49e087defe47","shared/components/obtainable-coupon/coupon-card-list-modal/web/component.html":"73f365e5376677ef5e16f452f521c0fa","shared/components/obtainable-coupon/coupon-list/shared/component.html":"67edc99ff656997800a9c768929241dc","shared/components/purchase-restriction-reservation-modal/wap/component.html":"80f050910c5e9aaaeeee7fe9e5af6389","shared/components/purchase-restriction-reservation-modal/web/component.html":"33a2fdb78f57a876db3587c53055c941","shared/components/recImg/component.html":"a640c527a59cbfd23b95980c5b7e21aa","shared/components/recentLive/component.html":"c178aeed844f649d6b63b02feec73f39","shared/components/recentPost/component.html":"813742de8f48cd215659415fef724490","shared/components/resultView/resultView.html":"3defb42c4b858203fd68ac9efafa4294","shared/components/searchAzBox/searchAzBox.html":"45e7dc903c9dc11c8b4e825fa376990e","shared/components/selectTab/component.html":"9dc8b078b8cb2d857310301e6e311156","shared/components/u-courseCard/component.html":"f859b2d0a66c125816cbfd798a630024","shared/components/userInfoSideBar/component.html":"2be91ceca1e3085af2ba95c2bff5a052","shared/components/userInfoTop/component.html":"7d610141ecca554afa0af3111dc07025","shared/components/wechat-invoke-app-overlay/component.html":"af084342c20071a2d183117a140e5216","shared/desktop/components/courseCard.html":"26b4600659ecfb619f775295cc7e5442","shared/desktop/components/recomendCourseList.html":"d0f9e6b604052f800a31fbb4de746983","shared/desktop/components/signActivity/component.html":"c4a9a209694bd7a43f238437b63de432","shared/desktop/components/u-cateNav/component.html":"3bf37e27430171b99d46dcb3beb8284a","shared/desktop/components/viewImage/component.html":"f8f2d110f1ad0fd8c0e1111ba5d58753","shared/desktop/modules/commonutil/commonutil.html":"3cf7f05ede78960eb8f92beaa5f77a08","shared/mobile/components/mobile-modal/wap/component.html":"2f74e128075928fb7870beaf3d6a48e1","shared/mobile/modules/commonutil/commonutil.html":"2d0c817395bce0008a79ce57228a7f49","shared/modules/teacherCenter/index.html":"7e9772fecb1cadae8c84501649a19845","spoc/cloud/mooc-cloud-channels/statics/desktop.html":"3bd258ec9fa5aa309a3808324a5971cc","spoc/cloud/mooc-cloud-courses/statics/desktop.html":"b5b168b29759e8d9954c62916be75e2b","spoc/cloud/mooc-cloud-main/statics/desktop.html":"46c18b8d5bde7fc89fe9c7ca87e29bc4","spoc/cloud/mooc-cloud-purchase/statics/desktop.html":"80e16c0c58c576ee7bf4311c5edb97cc","spoc/cloud/mooc-cloud-school-slide/statics/desktop.html":"a107e617faacb022d9ab60f8a2eed48f","spoc/cloud/mooc-cloud-solutions/statics/desktop.html":"7a4b29765d8b63d919743bd7898e8c91","spoc/cloud/mooc-cloud-summary-counter/statics/desktop.html":"dd05eb26cd064f75212b11a73fabb271","spoc/cloud/mooc-cloud-swiper/statics/desktop.html":"792eb6d4ef822ca9de0ee7a754e6e404","spoc/cloud/mooc-cloud-tab/statics/desktop.html":"2bba31e6dd46cc4c6caa212a013d6e81","spoc/cloud/schoolCloud/desktop/components/allCourses.html":"c5db9c135709cf3f38c0d8c35a1d87de","spoc/cloud/schoolCloud/desktop/components/allSchools.html":"af59b9e3660c5683a0c15f7580ee77ac","spoc/cloud/schoolCloud/desktop/components/applyCloudModal.html":"481da8a4e2053bd99d8196b0d621a675","spoc/cloud/schoolCloud/desktop/components/applySuccessModal.html":"ff69ac031c9098ecf0b1f0a92b92d492","spoc/cloud/schoolCloud/desktop/components/caseIntroPartnerUI.html":"b63a2a3be0b7600573d6168b771aa250","spoc/cloud/schoolCloud/desktop/components/caseIntroSampleUI.html":"0fdaae632815821d1b7961dfd75c9abf","spoc/cloud/schoolCloud/desktop/components/courseResCard.html":"2214c37601c9d7dc56c7cfe304a14911","spoc/cloud/schoolCloud/desktop/components/courseResHeaderUI.html":"90c9ed893297b1f6dd4192750e0bc361","spoc/cloud/schoolCloud/desktop/components/courseResTabUI.html":"e3562ae7954a2e678d97169740e0c669","spoc/cloud/schoolCloud/desktop/components/indexPage.html":"f62174f7d57d26a0e621dd4f3f8ac2fd","spoc/cloud/schoolCloud/desktop/components/introUI.html":"a8b0433f71f0bf4582a3bb5676f410f3","spoc/cloud/schoolCloud/desktop/components/recruitLesson.html":"522fa145361e69b656eb29d057dc09c6","spoc/cloud/schoolCloud/desktop/components/schoolCloudIntro.html":"6cd9c5c02534a83b5470fd75cae125c6","spoc/cloud/schoolCloud/desktop/modules/caseIntro/index.html":"db265c0271cd34f298cad729e963732c","spoc/cloud/schoolCloud/desktop/modules/courseResource/index.html":"d2577ae280209884ba5e4dbf6bdc843a","spoc/cloud/schoolCloud/desktop/modules/help/index.html":"4d668063768f6e27fff2968fa7b9afdd","spoc/cloud/schoolCloud/desktop/modules/index/index.html":"416c9178cf6cc27201cd0a3fa47ab14a","spoc/cloud/shared/mooc-cloud-consulting/statics/desktop.html":"2a946020681e932a6d35d4c04cba2512","spoc/cloud/shared/mooc-cloud-footer/statics/desktop.html":"0b6f314e736bc2c5a2ce42f405215803","spoc/cloud/shared/mooc-cloud-freeuse/statics/desktop.html":"f908b36178608cd56b779da0ab763683","spoc/cloud/shared/mooc-cloud-nav/statics/desktop.html":"561d853d40b10850257bbb210697ab30","spoc/cloud/shared/mooc-person-info/statics/desktop.html":"f05c094f4565a345ec4157d9118a0b9d","spoc/index/desktop/modules/spocIndex/index.html":"20d0940f27af3f24b27dbb6c6cf65f0d","spoc/shared/components/directPurchaseModal.html":"9e5ebc18903e6ce9b5f893513a8368d5","spoc/shared/components/identifyStudentModal.html":"d3cf1a31e53b23f3884369c24ebec56a","spoc/shared/components/schoolUI.html":"947749c3afaf7d3d1f408edc427ab043","spoc/university/detail/desktop/components/trialNotifyModal.html":"01f61c49c07a1364907ac52fc2ec3357","spoc/university/detail/desktop/modules/universityCenter/index.html":"fba65c6294535f3f7b37c970ff9c2165","teacherPage/kaoyan/shared/components/boostingProgramPanel/wap/component.html":"d68d7572a7664897cba300927f040c80","teacherPage/kaoyan/shared/components/boostingProgramPanel/web/component.html":"a62a14112ae7f910ea19e03c2fcbec37","teacherPage/kaoyan/shared/components/coupon-card/web/component.html":"6d3c02d6e65261393c7c8f5744db5d27","teacherPage/kaoyan/shared/components/kaoyanHeader/wap/component.html":"e124141e4b031d64cfce991474779315","teacherPage/kaoyan/shared/components/kaoyanHeader/web/component.html":"f9db707a80fa7a6ffcc18d2dc11f639c","teacherPage/kaoyan/shared/components/new-course-card/web/component.html":"d96b7173e67f5f7d8534d1d6015bb52e","teacherPage/kaoyan/shared/components/new-course-panel/web/component.html":"8760a0c0f4daeb76d30265ee91d7c29b","teacherPage/kaoyan/shared/components/teacherCouponPanel/web/component.html":"e96d8b25f23036d6aee2cdb249786fbd","teacherPage/kaoyan/shared/components/teacherLivePanel/wap/component.html":"9fb2a1c777b96800cc2cab487d68004a","teacherPage/kaoyan/shared/components/teacherLivePanel/web/component.html":"8a6a38abcbf986afc8764b1da51ef89a","teacherPage/mooc/desktop/modules/course/index.html":"12eb5c8fced664a78cec1f8429e4c257","teacherPage/mooc/desktop/modules/discuss/index.html":"d0371d5909273e39387839b194396e4e","teacherPage/mooc/desktop/modules/index/index.html":"cc94d6d108ea324f9c6a0b7ec88ae431","university/detail/desktop/modules/universityCenter/index.html":"597cef21d337d359491dc8c69b2ca525","user/coupons/shared/components/coupons/component.html":"3726e0aebf4cb8889ddca2fb7d36b9eb","user/coupons/shared/components/exchange-success-modal/template.html":"2786462fabaf3bc27ca4c09fc37f08bd","user/groupBuy/components/group-course-card/wap/component.html":"62093fff5e7a5acbbac888f475cd202c","user/groupBuy/components/group-info/wap/component.html":"65a08f9fdca53df4d081c6efbcbbe87e","user/groupBuy/components/group-info-member-list/wap/component.html":"947e64140a36378946954a26c14d3c6c","user/groupBuy/components/group-info-step/wap/component.html":"20f5e96c8e1c23db8d31663ccf3b2496","user/groupBuy/components/my-group-list/wap/component.html":"858c555e8c1b3d0df1c750d8d555022d","user/setting/accountSetting/desktop/modules/accountSetting/index.html":"d8475e520a376075b37d1ad1f99834e0","user/setting/accountSetting/desktop/modules/mailSetting/index.html":"c55d30003f76aafa96bdd0e8480e1846","user/setting/personInfoEdit/desktop/modules/personInfoSetting/index.html":"aeca1c90d572aea74007fc54059b4cc7","user/teacherCenterEdit/desktop/modules/teacherCenterEdit/index.html":"9f50a3dd49cdceba7ef06cf27ea524c8","vocation/all/desktop/modules/vocation/index.html":"84b4bf69f394b7b145edbbc6ef0e3e1a"}};</script>
+<script>
+var _hmt = _hmt || [];
+(function() {
+var hm = document.createElement("script");
+hm.src = "https://hm.baidu.com/hm.js?77dc9a9d49448cf5e629e5bebaa5500b";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hm, s);
+})();
+</script><script>
+if("undefined"==typeof EDU)EDU=function(){var e={},t=function(){return!1},n={};var i=function(t,n){return e.toString.call(t)==="[object "+n+"]"};return function(e,a){var o=n[e],r=i(a,"Function");if(null!=a&&!r)o=a;if(r&&(null==o||o.__dt__===!0)){var s=[];for(var d=2,c=arguments.length;d<c;d++)s.push(arguments.callee(arguments[d]));var l={};s.push.call(s,l,{},t,[]);var f=a.apply(null,s)||l;if(!o||!i(f,"Object"))o=f;else if(Object.keys)for(var u=Object.keys(f),d=0,c=u.length,h;d<c;d++){h=u[d];o[h]=f[h]}else for(var h in f)o[h]=f[h];if(null!=o&&o.__dt__===!0)delete o.__dt__}if(null==o)o={__dt__:!0};n[e]=o;return o}}();
+window.__phoneAccountFunctionalitiesSwitch = true;
+var $$$nativeWindowKeys = ["postMessage","blur","focus","close","frames","self","window","parent","opener","top","length","closed","location","document","origin","name","history","locationbar","menubar","personalbar","scrollbars","statusbar","toolbar","status","frameElement","navigator","applicationCache","customElements","external","screen","innerWidth","innerHeight","scrollX","pageXOffset","scrollY","pageYOffset","screenX","screenY","outerWidth","outerHeight","devicePixelRatio","clientInformation","screenLeft","screenTop","defaultStatus","defaultstatus","styleMedia","onanimationend","onanimationiteration","onanimationstart","onsearch","ontransitionend","onwebkitanimationend","onwebkitanimationiteration","onwebkitanimationstart","onwebkittransitionend","isSecureContext","onabort","onblur","oncancel","oncanplay","oncanplaythrough","onchange","onclick","onclose","oncontextmenu","oncuechange","ondblclick","ondrag","ondragend","ondragenter","ondragleave","ondragover","ondragstart","ondrop","ondurationchange","onemptied","onended","onerror","onfocus","oninput","oninvalid","onkeydown","onkeypress","onkeyup","onload","onloadeddata","onloadedmetadata","onloadstart","onmousedown","onmouseenter","onmouseleave","onmousemove","onmouseout","onmouseover","onmouseup","onmousewheel","onpause","onplay","onplaying","onprogress","onratechange","onreset","onresize","onscroll","onseeked","onseeking","onselect","onstalled","onsubmit","onsuspend","ontimeupdate","ontoggle","onvolumechange","onwaiting","onwheel","ongotpointercapture","onlostpointercapture","onpointerdown","onpointermove","onpointerup","onpointercancel","onpointerover","onpointerout","onpointerenter","onpointerleave","onbeforeunload","onhashchange","onlanguagechange","onmessage","onmessageerror","onoffline","ononline","onpagehide","onpageshow","onpopstate","onrejectionhandled","onstorage","onunhandledrejection","onunload","performance","stop","open","alert","confirm","prompt","print","requestAnimationFrame","cancelAnimationFrame","requestIdleCallback","cancelIdleCallback","captureEvents","releaseEvents","getComputedStyle","matchMedia","moveTo","moveBy","resizeTo","resizeBy","getSelection","find","getMatchedCSSRules","webkitRequestAnimationFrame","webkitCancelAnimationFrame","btoa","atob","setTimeout","clearTimeout","setInterval","clearInterval","createImageBitmap","scroll","scrollTo","scrollBy","onappinstalled","onbeforeinstallprompt","caches","crypto","ondevicemotion","ondeviceorientation","ondeviceorientationabsolute","indexedDB","webkitStorageInfo","sessionStorage","localStorage","fetch","onauxclick","visualViewport","speechSynthesis","webkitRequestFileSystem","webkitResolveLocalFileSystemURL","openDatabase","chrome", '__REGULAR_DEVTOOLS_GLOBAL_HOOK__', '$$$nativeWindowKeysCheckMap', '$$$nativeWindowKeys', '$$$globalErrors'];
+var $$$nativeWindowKeysCheckMap = {},
+i = 0,
+l = $$$nativeWindowKeys.length;
+for (; i < l; i++) {
+$$$nativeWindowKeysCheckMap[$$$nativeWindowKeys[i]] = 1;
+}
+window.__globalErrorEvents = [];
+function errorEventHandler(e) {
+window.__globalErrorEvents.push(e);
+}
+function addEvent(el, ev, fn) {
+if (el) {
+if (el.addEventListener) {
+el.addEventListener(ev, fn);
+} else if (el.attachEvent) {
+el.attachEvent(ev, fn);
+}
+}
+}
+addEvent(window, 'error', errorEventHandler);
+// delete window.addEvent; // error reported in ie9, why do this?
+</script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libRegular_4bb7955a19e81cbf93aacd2e9b2e1bca.js"></script>
+<script>
+window.gaProduct = "mooc";
+window.urlPrefix = {
+indexPrefix : "/",
+homePrefix : "/home.htm",
+loginPrefix : "/member/login.htm",
+logoutPrefix : "/passport/member/logout.htm",
+searchPrefix : "/search.htm",
+courseListPrefix : "/category/all",
+universityListPrefix : "/university/view/all.htm",
+universityPrefix : "/university/",
+universityPreviewPrefix : "/university/preview/",
+vocationIndexPrefix : "/vemooc",
+courseInfoPrefix : "/course/",
+courseInfoPreviewPrefix : "/course/preview/",
+courseLearnPrefix : "/learn/",
+courseLearnPreviewPrefix: "/learn/preview/",
+courseLearnReviewPrefix : "/learn/review/",
+learnForTeacherPrefix : "/learn/enroll/",
+spocMainPrefix : "/spoc/schoolcloud/index.htm",
+spocCourseInfoPrefix : "/spoc/course/",
+spocCourseLearnPrefix : "/spoc/learn/",
+spocUsityIdPrefix : "/spoc/university.htm?schoolId=",
+spocUniversityListPrefix : "/university/view/all.htm",
+spocUniversityPrefix : "/spoc/university/",
+spocUniversityPreviewPrefix : "/spoc/university/preview/",
+spocMemberPrefix : "/spoc/u/",
+spocMemberPreviewPrefix : "/spoc/u/preview/",
+memberPrefix : "/u/",
+memberPreviewPrefix : "/u/preview/",
+addMemberInfoPrefix : "https://www.icourse163.org/member/addMemberInfo.htm",
+partnerSuperAdminPrefix : "/partnerAdmin/superAdmin.htm",
+partnerEditorAdminPrefix: "/partnerAdmin/editorAdmin.htm",
+columnistAdminPrefix : "/column/management/index.htm",
+adminManagerPrefix : "/collegeAdmin/schoolPanel.htm",
+adminTeacherPrefix : "/collegeAdmin/teacherPanel.htm",
+coursecreatePrefix : "/collegeAdmin/courseCreate.htm",
+adminSetMessagePrefix : "/collegeAdmin/setMessage.htm",
+adminSettingPrefix : "/collegeAdmin/setting.htm",
+adminToolsPrefix : "/collegeAdmin/tools.htm",
+termManagePrefix : "/collegeAdmin/termManage/",
+reviewQuizPrefix : "/review/quiz/{id}.htm",
+reviewHwPrefix : "/review/hw/",
+reviewTrainPrefix : "/review/train/",
+teacherMainEditPrefix : "/user/teacherMainEdit.htm",
+personInfoSettingPrefix : "/user/setting/personInfoEdit.htm",
+accountSettingPrefix : "/user/setting/accountSetting.htm",
+attachmentPrefix : "/homework/attachment.htm",
+titleAttachmentPrefix : "/question/title/attachment.htm",
+notSupportedPrefix : "/common/errors/notSupported.htm",
+helpFrontPrefix : "/help/help.htm",
+helpBackIndexPrefix : "/help/helpIndex.htm",
+helpBackPrefix : "/help/manageHelp.htm",
+couponsSuffix : "/user/myCoupons.htm",
+scholarship2017TeamPrefix : "/scholarship2017/team/team.htm",
+aboutUsPrefix : "/about/aboutus.htm",
+contactUsPrefix : "/about/contactus.htm",
+certApplyPrefix : "/cert/apply.htm",
+certDesignPrefix : "/cert/certDesign/{id}.htm",
+chargeCertDesignPrefix : "/cert/chargeCertDesign/{id}.htm",
+payOrderPrefix : "/pay/order.htm",
+donateCoursePrefix : "/donate/course.htm",
+getTextPrefix : "/resource/getText.htm",
+cdnReportPrefix	: 'https://study.163.com/about/cdnReport.htm',
+snsOAuthPrefix : "/passport/sns/doOAuth.htm",
+ursAuthorPrefix : "https://www.icourse163.org/member/ursLogin.htm",
+thirdBindCallbackHref : "https://www.icourse163.org/logingate/urs/bindCallback.htm",
+icourseAuthorPrefix : "https://www.icourse163.org/member/icourseLogin.htm",
+livePrefix : "/live/liveRoom.htm",
+kaoYanAdminManagerPrefix: "/collegeAdmin/postgradExamSchoolPanel.htm",
+kaoyaoOrderPrefix: "/collegeAdmin/kaoyanOrder.htm",
+columnOrderPrefix: "/collegeAdmin/columnOrder.htm",
+orderServicePrefix: "/order/service.htm"
+};
+window.moocHost = "icourse163.org";
+window.moocHref = "https://www.icourse163.org";
+window.moocStaticHost = "mc.stu.126.net";
+window.callAppDownloadHref = "https://www.icourse163.org/client/callAppDownload.htm";
+window.NEJ_CONF = {
+clipboard: '//mc.stu.126.net/res/swf/nej_clipboard.swf?0eba83544b107d7207d8936baab41283'
+};
+
+window.serverTimeDiff = new Date().getTime() - 1562424512429;
+window.webUser = {
+id:"1031088784",
+nickName:"渐若窥宏大",
+roles:[
+],
+passport:"UID_43801D46B05FA793E6E7A0A4776BB11C",
+
+personalUrlSuffix:"mooc1507304873185",
+smallFaceUrl:"https://img0.ph.126.net/J838cxxqoa9ANXnFr7EOcw==/6632356393329603324.jpg",
+largeFaceUrl:"https://img0.ph.126.net/J838cxxqoa9ANXnFr7EOcw==/6632356393329603324.jpg",
+loginId:"UID_43801D46B05FA793E6E7A0A4776BB11C",
+loginType:"4",
+
+email:"277445426@qq.com",
+
+end_key:"end_value"
+};
+window.cert_owner = 'false';
+window.currentPageName = "universityList";
+window.imageUrlMap = {
+loading_circle_gif:"//mc.stu.126.net/res/images/ui/loading_circle.gif?00ef871b291bc03a497d608a5bd8ec99",
+share_sprite:"//mc.stu.126.net/res/images/ui/shareUI.png?e2653a364a790663aed6c6ece19fd83a",
+ui_sprite:"//mc.stu.126.net/res/images/ui/ui_sprite.png?5f7eedcf69b8a05d3ed53b4c1918de1c",
+forum_icon_sprite:"//mc.stu.126.net/res/images/ui/forum_icon.png?b12539c2400cc76ad30262bdf7e12cbd",
+image_upload_swf:"//mc.stu.126.net/res/swf/imageUpload.swf?884965992b66cee07fb945929ac4b00f",
+image_pdf_swf:"//mc.stu.126.net/res/swf/pdfReader.swf?74ddf86a5d97e5af891638154a0989d1",
+image_video_swf:"//mc.stu.126.net/res/swf/moocPlayer.swf",
+img_upd_select_swf:"//mc.stu.126.net/res/swf/DragCutUpload_mooc.swf?ac94fb92d65cb0f12a93a8ca00fa3df9",
+img_default_big_head:"//edu-image.nosdn.127.net/457BE69DFFF1A6157EAF6D44EA2D8662.png?imageView&thumbnail=180y180&quality=100",
+img_default_small_head:"//mc.stu.126.net/res/images/common/headImg/small.jpg?06517f5e438da035a4016abd8e661d2f",
+img_default_unviersity_1:"//mc.stu.126.net/res/images/common/default/university1.png?55bbec907070a55ee4d333bc645445d1",
+img_default_unviersity_2:"//mc.stu.126.net/res/images/common/default/university2.png?a00032f80fa68a6ea6135ee8df9ed7a4",
+img_default_unviersity_3:"//mc.stu.126.net/res/images/common/default/university3.png?63f350451049f7803b014abab9408a4d",
+img_default_unviersity_cert:"//mc.stu.126.net/res/images/common/default/universityCert.png?4c209d5c5ebddc91e80fcf34795ddae1",
+img_default_course:"//edu-image.nosdn.127.net/65d6907b-b4ff-4409-bbcc-e4dcc285e00b.jpg?imageView&quality=100",
+img_default_signature:"//mc.stu.126.net/res/images/common/signature_example.png?a15f9c690bfd58771de32d5c483dea59",
+img_step_score_mail:"//mc.stu.126.net/res/images/common/step_score_mail.jpg?201e015a404c3c7aef85de694a4b6622"
+};
+window.swfUrlMap = {
+CloudPlayer:"//mc.stu.126.net/res/swf/eduPlayer.swf?be877349a3014ffd45d3be0ba2633556",
+cloudPlayerUI:"//mc.stu.126.net/res/swf/cloudPlayerUI.swf?83eaf96a4fa93df776e734c42d59ecc6"
+}
+window.ursBasicConfig = {
+newCDN:1, // 代表使用的CDN是连通性更好的SNI域名
+version:3, // 代表版本3
+productKey : 'a3b396bb2f589bbc1151f0fa61d14747',
+product : 'imooc',
+promark : 'cjJVGQM',
+mode: 'popup',
+//product : 'urs',
+//promark : 'RFYwJDP',
+//productkey: 'bcaddd8933a501880ebef6b951fe8f8a',
+host : 'www.icourse163.org',
+cookieDomain: 'icourse163.org',
+regCookieDomain : 'icourse163.org'
+};
+window.URSLoginConfig = {
+newCDN:1, // 代表使用的CDN是连通性更好的SNI域名
+version:3, // 代表版本3
+mode: 'popup',
+product : 'imooc',
+productKey: 'a3b396bb2f589bbc1151f0fa61d14747',
+promark : 'cjJVGQM',
+host : 'www.icourse163.org',
+cookieDomain : 'icourse163.org',
+skin : 3,
+page : 'login',
+needUnLogin : 1 ,
+defaultUnLogin:1,
+placeholder : {account:'常用邮箱或网易邮箱',pwd:'密码'},
+needPrepare: 1,
+regUrl : '//zc.reg.163.com/regInitialized?pd=imooc&pkid=YeaYYzQ&pkht=www.icourse163.org',
+coverBackground : "background:-webkit-radial-gradient(center,rgba(0,0,0,0.3),#000 75%);",
+single : 1,
+cssDomain : '//cmc.stu.126.net/u/css/cms/',
+cssFiles : 'urs4moocweb.css',
+frameSize : {'width':380,'height':282},
+logincb : function(cb){}
+};
+</script>
+<script type="text/javascript">
+window.isMobilePhone = "false";
+window.gaTrackPageview = '_trackPageview';
+window.gaTrackEvent = '_trackEvent';
+window.gaqStr = '_gaq';
+window.m_shareUrl = "";
+var _ua = 'UA-35176345-3';
+// var _ua = 'UA-35176345-8'; //fix http://jira.netease.com/browse/MOOC-3603
+window._gaq = [];
+window._gaq.push(['_setAccount', _ua],['_setLocalGifPath', '/' + _ua + '/__utm.gif'],['_setLocalRemoteServerMode']);
+window._gaq.push(['_addOrganic', 'm.baidu.com', 'word']);
+window._gaq.push(['_addOrganic', 'soso', 'search']);
+window._gaq.push(['_addOrganic', 'sogou', 'query']);
+window._gaq.push(['_addOrganic', 'haosou', 'q']);
+window._gaq.push(['_addOrganic', 'youdao', 'q']);
+window._gaq.push(['_addOrganic', 'chinaso', 'q']);
+window._gaq.push(['_addOrganic', 'zhongsou', 'w']);
+window._gaq.push(['_addOrganic', 'm.sp.sm.cn', 'w']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = '//wr.da.netease.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!--[if lt IE 9]>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/libH5Shiv_f4d9dea8e0ae8455500862bbb874d63c.js"></script>
+<![endif]-->
+<script src="//hubble-js-bucket.nosdn.127.net/DATracker.sync.1.6.11.js"></script>
+<script>
+DATracker.init("MA-A976-948FFA05E931", {
+truncateLength: 255,
+persistence: "localStorage",
+cross_subdomain_cookie: false,
+use_app_track: true,
+heatmap: {
+isTrackLink: true,
+collect_all: true,
+collect_url: function() {
+//使用场景如：
+//学习页面不再采集
+if (location.href.indexOf("/learn/") > -1) {
+return false;
+} else {
+return true;
+}
+},
+// 自定义设置采集的元素的路径，需返回该元素的path，
+// 该路径是热力图渲染时查找元素所需，请正确设置
+set_collect_element_path: function(targetElement, heatmap) {
+try {
+var pathMap = {"a:nth-child":"ANC","aside:nth-child":"ASNC","article:nth-child":"ATNC","button:nth-child":"BNC","code:nth-child":"CDNC","canvas:nth-child":"CVNC","div:nth-child":"DVNC","footer:nth-child":"FTNC","form:nth-child":"FMNC","frame:nth-child":"FRNC","header:nth-child":"HDNC","iframe:nth-child":"IFNC","img:nth-child":"IGNC","input:nth-child":"IPNC","label:nth-child":"LBNC","li:nth-child":"LINC","p:nth-child":"PNC","section:nth-child":"SCNC","span:nth-child":"SPNC","table:nth-child":"TBNC","tbody:nth-child":"TYNC","td:nth-child":"TDNC","textarea:nth-child":"TANC","tfoot:nth-child":"TFNC","th:nth-child":"THNC","ul:nth-child":"ULNC"}
+var selector = function(targetElement) {
+var i = (targetElement.parentNode && 9 == targetElement.parentNode.nodeType) ? -1 : heatmap.getDomIndex(targetElement);
+var pathStr = targetElement.tagName.toLowerCase()
++ (~i ? ':nth-child(' + (i + 1) + ')' : '');
+for( let key in pathMap) {
+var re = new RegExp(key, 'g');
+pathStr = pathStr.replace(re, pathMap[key]);
+}
+return pathStr;
+};
+var getDomSelector = function(targetElement,arr) {
+if(!targetElement || !targetElement.parentNode || !targetElement.parentNode.children){
+return false;
+}
+arr = arr && arr.join ? arr : [];
+var name = targetElement.nodeName.toLowerCase();
+if (!targetElement || name === 'body' || 1 != targetElement.nodeType) {
+arr.unshift('body');
+return arr.join(' > ');
+}
+arr.unshift(selector(targetElement));
+return getDomSelector(targetElement.parentNode, arr);
+}
+return getDomSelector(targetElement);
+} catch (error) {
+}
+}
+}
+})
+document.addEventListener('click',function(e){
+var $node = e.target;
+try{
+if($node.classList.contains('ga-click')){
+//替换打点
+var params = getGaParams($node);
+console.log('hubble打点成功');
+DATracker.track(params.data_cate, params);
+return ;
+}
+var $parent = $node.parentNode
+while($parent.nodeName != 'BODY'){
+if($parent.classList.contains('ga-click')){
+var _params = getGaParams($parent);
+console.log('hubble打点成功');
+DATracker.track(_params.data_cate, _params);
+return ;
+}else{
+$parent = $parent.parentNode;
+}
+}
+}catch(e){
+console.log(e);
+}
+}) ;
+function getGaParams(node){
+var obj = {};
+obj.user_id = window.webUser && window.webUser.id;
+//事件名
+obj.data_cate = node.getAttribute('data-cate') || '';
+obj.data_action = node.getAttribute('data-action') || '';
+obj.data_label = node.getAttribute('data-label') || '';
+obj.data_pagename = window.location.href;
+//解析额外参数，如id等等
+var bizData = node.getAttribute('data-bizData') || '';
+try{
+bizData = JSON.parse(bizData) || {};
+for(var prop in bizData){
+obj[prop] = bizData[prop];
+}
+}catch(e){
+console.log(e);
+}
+return obj;
+}
+</script></head>
+<link rel="stylesheet" href="//mc.stu.126.net/pub/s/pt_web_university_all_8d971e5ccd20e8561f02823c899caf6c.css"/>
+<body>
+<div id="j-activityBanner" class="f-dn ga-click" data-cate="小黄条" data-action="点击" style="position:relative;z-index:300;"></div>
+<div id="j-activityRightBanner" class="ga-click" style="position:fixed;z-index:300;text-align:right;right: 16px;bottom:143px;"></div>
+<div id="j-appbanner" style="position:relative;z-index:300;"></div>
+<div id="g-container">
+<div class="web-nav-container">
+<div class="m-navTop-func">
+<div class="m-navTop-func-i">
+<div class="u-navLogin-container">
+<div class="u-navLogin-logo new-nav-spoc-logo">
+<a href="//www.icourse163.org" target="_top">
+<img width="190" height="28" src="//edu-image.nosdn.127.net/C0124E0336721FF65563B76A16A8143F.png?imageView&thumbnail=190y28&quality=100">
+</a>
+</div>
+<div class="e-hover-source u-navLogin-course">
+<a href="//www.icourse163.org/category/all" target="_top">
+<span class="nav">课程</span>
+</a>
+<div class="e-hover-target">
+<div class="e-hover-arrow"></div>
+<div class="e-hover-arrow-border"></div>
+<div class="e-hover-content">
+<div class="j-nav-CateBox u-cateBox-container"></div>
+</div>
+</div>
+</div>
+<div class="u-navLogin-school">
+<a href="//www.icourse163.org/university/view/all.htm" target="_top">
+<span class="nav">名校</span>
+</a>
+</div>
+<div class="u-navLogin-discuss">
+<a href="//kaoyan.icourse163.org" target="_top">
+<span class="nav">2020考研</span>
+</a>
+</div>
+<div class=" u-navLogin-cloud">
+<a href="//www.icourse163.org/spoc/schoolcloud/index.htm" target="_blank">
+<span class="nav">学校云</span>
+</a>
+</div>
+<div class="j-kaoyan-link u-navLogin-kaoyan">
+<a href="//www.icourse163.org/topics/topmszl/" target="_blank">
+<span class="nav">名师专栏</span>
+</a>
+</div>
+<div class="j-latest-mark u-navLogin-mark f-f0 f-dn">
+<span>新</span>
+</div>
+<div class="web-nav-right-part">
+<div class="u-navLogin-app">
+<img width="13" height="21" src="//edu-image.nosdn.127.net/03CC83FA97B35119DFB8C772754765CC.png?imageView&thumbnail=13y22&quality=100">
+</div>
+<div class="e-hover-source u-navLogin-appText">
+<a href="//www.icourse163.org/mobile.htm?from=navibar&mobiletopbar=hidden" target="_top">
+<span class="nav">客户端</span>
+</a>
+<div class="e-hover-target">
+<div class="e-hover-arrow"></div>
+<div class="e-hover-arrow-border"></div>
+<div class="e-hover-content">
+<div class="u-app-download-container">
+<div class="u-app-tip">
+<span>扫码下载官方APP</span>
+</div>
+<div class="u-app-qrcode">
+<img width="140" height="140" src="//img-ph-mirror.nosdn.127.net/Rg6muO26iMOFWx9vwEHC-g==/6630234335885341999.png">
+</div>
+<div class="u-app-iphone-link">
+<a href="//itunes.apple.com/cn/app/id977883304" target="_blank"></a>
+</div>
+<div class="u-app-android-link">
+<a href="//study.163.com/pub/ucmooc/ucmooc-android-official.apk" target="_blank"></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="u-navLogin-searchFunc">
+<div class="u-navLogin-searchFunc-i">
+<div class="j-search-box u-search-container">
+<div class="j-input u-search-input"></div>
+<div class="u-search-icon">
+<span class="u-icon-search2 j-searchBtn"></span>
+</div>
+</div>
+</div>
+</div>
+<div class="ga-click u-navLogin-myCourse" data-cate="首页_头部导航" data-action="个人中心">
+<div class="u-navLogin-myCourse-t">
+<div class="ga-click u-navLogin-myCourse u-navLogin-center-container" data-cate="首页_头部导航" data-action="个人中心">
+<a href="//www.icourse163.org/home.htm?userId=1031088784" target="_top">
+<span class="nav">个人中心</span>
+</a>
+</div>
+</div>
+</div>
+<div class="u-navLogin-loginBox">
+<div class="u-navLogin-loginBox-i">
+<div class="m-navlinks" id='j-topnav'>
+<div class="login f-cb">
+<div class="info f-pr j-nav-info-box __e2e__test__nav">
+<div class="face f-fl f-thide">
+<a class="" href="/home.htm?userId=1031088784" target="_self">
+<img class="" id="my-img"
+src="https://img0.ph.126.net/J838cxxqoa9ANXnFr7EOcw==/6632356393329603324.jpg"
+width="30" height="30" alt="渐若窥宏大">
+</a>
+</div>
+<div class="j-nav-set sets __e2e__test__menu" style="display:none">
+<div class="e-hover-arrow"></div>
+<div class="e-hover-arrow-border"></div>
+<ul class="set">
+<li class="text"><span class="f-fc9">正使用“腾讯QQ”帐号登录</span></li>
+<li class="f-dn j-my-live"><a class="f-fc6 ga-click" data-cate="导航栏" href="/live/liveRoom.htm" data-action="头像下点击" target="_blank">我的直播</a></li>
+<li class="j-cert-card" style="display:none;"><a class="f-fc6" href="/home.htm?userId=1031088784#/home/mycert" target="_blank">我的认证证书</a></li>
+<li class="j-coupons"><a class="f-fc6" href="/user/myCoupons.htm" target="_blank">我的优惠券</a></li>
+<li class="j-partner-man" style="display:none;"><a class="f-fc6" href="/partnerAdmin/superAdmin.htm" target="_blank">高教社管理员</a></li>
+<li class="j-editor-man" style="display:none;"><a class="f-fc6 j-editor-txt" href="/partnerAdmin/editorAdmin.htm" target="_blank"></a></li>
+<li class="j-columnist" style="display:none;"><a class="f-fc6" href="/column/management/index.htm" target="_blank">专栏管理后台</a></li>
+<li class="j-school-man" style="display:none;"><a class="f-fc6" href="/collegeAdmin/schoolPanel.htm" target="_blank">高校管理后台</a></li>
+<li class="j-bsite" style="display:none;"><a class="f-fc6" href="/bsite/list.htm" target="_blank">站点管理</a></li>
+<li class="j-postgrade-man" style="display:none;"><a class="f-fc6" href="/collegeAdmin/postgradExamSchoolPanel.htm" target="_blank">考研高校管理后台</a></li>
+<li class="j-offline-nonteacher-entry" style="display:none;"><a class="f-fc6" href="/offlineClass/teacherPanel.htm#/oct" target="_blank">慕课堂管理</a></li>
+<li class="j-teacher-man" style="display:none;"><a class="f-fc6" href="/collegeAdmin/teacherPanel.htm" target="_blank">课程管理后台</a></li>
+<li class="j-kaoyan-order" style="display:none;"><a class="f-fc6" href="/collegeAdmin/kaoyanOrder.htm" target="_blank">考研订单</a></li>
+<li class="j-column-order __e2e__test__columnorder" style="display:none;"><a class="f-fc6" href="/collegeAdmin/columnOrder.htm" target="_blank">专栏订单</a></li>
+<li class="j-order-service" style="display:none;"><a class="f-fc6" href="/order/service.htm" target="_blank">订单管理</a></li>
+<li class="j-teacher-main" style="display:none;"><a class="f-fc6" href="/u/mooc1507304873185" target="_blank">老师主页</a></li>
+<li><a class="f-fc6" href="/user/setting/personInfoEdit.htm" target="_blank">设置</a></li>
+<li class="exit"><a class="f-fc6" href="/member/logout.htm" >退出</a></li>
+</ul>
+</div>
+</div>
+<div class="j-passportforplug" style="display:none;">UID_43801D46B05FA793E6E7A0A4776BB11C</div>
+<div class="arrow"></div>
+</div>
+</div></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div><div id="g-body"><div class="p-moocschools f-pr">
+<h3 class="u-tit">
+<div class="g-flow f-pr txt">
+<p class="f-pa divider"></p>
+</div>
+</h3>
+<div class="b-20"></div>
+<div class="g-flow">
+<div class="b-15"></div>
+<div class="u-usitys f-cb">
+<a class="u-usity f-fl" href="/university/PKU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/370D4ADD98FE6993DE1970DB0060ACCA.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京大学">
+</a>
+<a class="u-usity f-fl" href="/university/NJU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/851B65253247220C4FBEB56052F6B512.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZJU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/80562B55238EBB6073F09D6A6CB2411C.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="浙江大学">
+</a>
+<a class="u-usity f-fl" href="/university/FUDAN" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/64A8464ADFDE0A80F0B09C7A28B04C97.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="复旦大学">
+</a>
+<a class="u-usity f-fl" href="/university/BUAA" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/Kv3j_azNQD8sFDvfqRFaHQ==/6597941679379294936.jpg"
+width="164" height="60" alt="北京航空航天大学">
+</a>
+<a class="u-usity f-fl" href="/university/WHU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/DD5AFE55B4268D64508A58AE479CCE95.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="武汉大学">
+</a>
+<a class="u-usity f-fl" href="/university/BIT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/C3257A57EE18C9695E8CEEFC957F373E.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/CAU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/Z4A7SDpnhOjRFLz7v6LP1Q==/1144195780429876564.jpg"
+width="164" height="60" alt="中国农业大学">
+</a>
+<a class="u-usity f-fl" href="/university/BNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/9335AF96DDF002BD568B58262CB5F75B.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/MUC" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/4C7870C1B34586FC06430E8DDE7BCD05.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中央民族大学">
+</a>
+<a class="u-usity f-fl" href="/university/NANKAI" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/yhDsB3aAUCMyMVGgj-IPnw==/6608577255353336320.jpg"
+width="164" height="60" alt="南开大学">
+</a>
+<a class="u-usity f-fl" href="/university/TJU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/09AEBEE2F6D6C83B6D1D990944326175.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="天津大学">
+</a>
+<a class="u-usity f-fl" href="/university/DLUT" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/Ij8QrPCgSZZ_GECkmQigNA==/6608899412259397493.jpg"
+width="164" height="60" alt="大连理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/JLU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/fehABjVTEaEhheiJK-f2Fw==/2963087079933355988.jpg"
+width="164" height="60" alt="吉林大学">
+</a>
+<a class="u-usity f-fl" href="/university/HIT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/DECA7A0A83D3A7392D89D89D1052EF17.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="哈尔滨工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/NEU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/ACAB4C1B0610AB9088D6801CC6FC560D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="东北大学">
+</a>
+<a class="u-usity f-fl" href="/university/TONGJI" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/6F31DFEDE0DFF8348D3CF978ED909CA4.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="同济大学">
+</a>
+<a class="u-usity f-fl" href="/university/SJTU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/7D346AE95BD4FA275CB8E1F7EFD46E61.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海交通大学">
+</a>
+<a class="u-usity f-fl" href="/university/ECNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/43D19A2002E2A1BC1A05A5A852BAC6C8.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="华东师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/RUC" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/9A39DABAA98AC316BFD8AA24A26A4524.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国人民大学">
+</a>
+<a class="u-usity f-fl" href="/university/SEU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/ja2N2n_QgP1I3-UxP9NKOw==/6608249600887935764.jpg"
+width="164" height="60" alt="东南大学">
+</a>
+<a class="u-usity f-fl" href="/university/BJFU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E5375CF0F7613B8A6C78F4C14D726749.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京林业大学">
+</a>
+<a class="u-usity f-fl" href="/university/USTC" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/7Qs1tmwUCO69tdA06ZnBKw==/3665930096779793404.jpg"
+width="164" height="60" alt="中国科学技术大学">
+</a>
+<a class="u-usity f-fl" href="/university/XMU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/75767A5C4DD096C4E18ABAD156621257.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="厦门大学">
+</a>
+<a class="u-usity f-fl" href="/university/SDU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/kbVoXkrLZ2dyWV1r6Hcllw==/1342917113986842373.jpg"
+width="164" height="60" alt="山东大学">
+</a>
+<a class="u-usity f-fl" href="/university/OUC" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/ETfW5sSb6f568_qnK_KB3A==/6599299576238344531.jpg"
+width="164" height="60" alt="中国海洋大学">
+</a>
+<a class="u-usity f-fl" href="/university/HUST" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/EEBAB88B673740BECED3559CD1DDFF49.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="华中科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/HNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/42F69A0777BBE19939795AFA7FC39503.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖南大学">
+</a>
+<a class="u-usity f-fl" href="/university/CSU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/F8AAFA1B8C91651114DFDE871FF85B50.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中南大学">
+</a>
+<a class="u-usity f-fl" href="/university/NUDT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/13BD39CEF3ED21D9AF6CDD905D56467D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="国防科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/SYSU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/l4H1mG98Q1y5HxvPstRrrA==/1415537657978814976.jpg"
+width="164" height="60" alt="中山大学">
+</a>
+<a class="u-usity f-fl" href="/university/SCUT" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/SxHU6sG8fBLGwJB0-kt0Gg==/6597642612216601289.jpg"
+width="164" height="60" alt="华南理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/SCU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/BGwjhxxuCOcKze4LsV0yfA==/6630183758350613117.png"
+width="164" height="60" alt="四川大学">
+</a>
+<a class="u-usity f-fl" href="/university/CQU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/eCLGXI84az5ZfSfY_lVFQQ==/6608406831051754536.jpg"
+width="164" height="60" alt="重庆大学">
+</a>
+<a class="u-usity f-fl" href="/university/UESTC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/DFA796EE289BB519F16C232334E28F29.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="电子科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/XJTU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/VIrvUbRre37mFqiIVfCuoA==/6599329263052289929.jpg"
+width="164" height="60" alt="西安交通大学">
+</a>
+<a class="u-usity f-fl" href="/university/NWPU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/_p19fzlhgqQeWu39Mqp-lg==/6599281984052267127.jpg"
+width="164" height="60" alt="西北工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/NWSUAF" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/764E9DEA135BF2E1D31536563C6ED4AC.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西北农林科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/LZU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/KG3CDrJYd2IG4qXcs9j-TQ==/160722211802042552.jpg"
+width="164" height="60" alt="兰州大学">
+</a>
+<a class="u-usity f-fl" href="/university/NJTU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/DTaDxefnyBpT3Y7lSCJ3tw==/3828622633318658061.jpg"
+width="164" height="60" alt="北京交通大学">
+</a>
+<a class="u-usity f-fl" href="/university/bjut" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/5C679853F1F28604091FA79E27F41450.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/USTB" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/18820B3409B12D20ABBF32D53A0250C3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/BUCT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/191FF772048B2FFC2C1EB9E635BD350C.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京化工大学">
+</a>
+<a class="u-usity f-fl" href="/university/CUC" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/0277DA3F7E4FEB5EB3829DC12B47C022.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国传媒大学">
+</a>
+<a class="u-usity f-fl" href="/university/BUPT" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/NcSU2q64Wq3fKH2FQVnjOQ==/2397040901685387124.png"
+width="164" height="60" alt="北京邮电大学">
+</a>
+<a class="u-usity f-fl" href="/university/PUMC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/4562267815F8B2520F8DDD0191757726.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京协和医学院">
+</a>
+<a class="u-usity f-fl" href="/university/CUEB" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/69942E7D26C5A6B64029E0CA26C78A14.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="首都经济贸易大学">
+</a>
+<a class="u-usity f-fl" href="/university/BUCM" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/Stnag3eDtL6wrdziM7hKBg==/2407455475823579778.png"
+width="164" height="60" alt="北京中医药大学">
+</a>
+<a class="u-usity f-fl" href="/university/CNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/BEA924FADBBA7EF77EE24248E30B9F22.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="首都师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/CUPES" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/C55180498B99143985C1468EFF93A225.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="首都体育学院">
+</a>
+<a class="u-usity f-fl" href="/university/BFSU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/D99B66666A1C87FFE2AE4C6EE17D9CCB.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京外国语大学">
+</a>
+<a class="u-usity f-fl" href="/university/BSU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/BBE625A7AD96839FA917E6B0103E09A9.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京体育大学">
+</a>
+<a class="u-usity f-fl" href="/university/BLCU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/57B57BCC6C438AF6F3A85285EF23276D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京语言大学">
+</a>
+<a class="u-usity f-fl" href="/university/BISU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/81D5028D50DB7DD84A70097EBE1582F2.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京第二外国语学院">
+</a>
+<a class="u-usity f-fl" href="/university/CUFE" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/D66EC3A539EA220721971BB98DFCB329.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中央财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/UIBE" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/1DB830585BED035F9F18B81E720012CC.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="对外经济贸易大学">
+</a>
+<a class="u-usity f-fl" href="/university/GJGX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/3BCF18722831D4E5CF355ACBBAAFE0A1.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="国际关系学院">
+</a>
+<a class="u-usity f-fl" href="/university/CCOM" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E80D9EE17601DA685BF1F894E47DDB83.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中央音乐学院">
+</a>
+<a class="u-usity f-fl" href="/university/CCM" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/645CC4B9150B511D41921BAD46B7D466.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国音乐学院">
+</a>
+<a class="u-usity f-fl" href="/university/cupl" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/9EE732C81D85B24DDDB5A114140FCDB6.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国政法大学">
+</a>
+<a class="u-usity f-fl" href="/university/NUEPU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/812D387986683D101B5BBC0DD8BD4941-1441763246288?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="华北电力大学">
+</a>
+<a class="u-usity f-fl" href="/university/NCEPUB" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/A43F892F415947C0AB60EFADADAA338B-1441763306855?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="华北电力大学（保定）">
+</a>
+<a class="u-usity f-fl" href="/university/CUP" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E9F4B6FE1868ABDBCAB1514CE96E9911.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国石油大学（北京）">
+</a>
+<a class="u-usity f-fl" href="/university/TJYKDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/CE69A0B88745334152C7255B8A3F935B.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="天津医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/TJSFDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/8BC474EDAAC8CF871F1C2A56871D7BE4.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="天津师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/TJCJDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/9A3ECB530919577FDDC82BDF342148AD.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="天津财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/HEBUT" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/sPpbd_tAB-GsYkfuOFUaGQ==/2816720091960997103.png"
+width="164" height="60" alt="河北工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/HEBUST" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/12C4B4C2B9C2D0B03D061D577923AFCA.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="河北科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/HEBTU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/4FIDE0bXnjCtAfqc6tkzeg==/6608203421400583881.jpg"
+width="164" height="60" alt="河北师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/BDU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/2E76C1C993EA2F8B0668C3F56B130874.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="保定学院">
+</a>
+<a class="u-usity f-fl" href="/university/SXU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/F331FE75180FE7893DC960443145F64D.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="山西大学">
+</a>
+<a class="u-usity f-fl" href="/university/TYUT" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/ZfeCdK4av8jCnfxxSF2mAQ==/2017894108138999527.png"
+width="164" height="60" alt="太原理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/WYDXPX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/D0BBB415B1616BC243A825284EA22128.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="网易大学培训">
+</a>
+<a class="u-usity f-fl" href="/university/IMU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/1C85AF1E4848780DD9B2BE78FC9CEECA.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="内蒙古大学">
+</a>
+<a class="u-usity f-fl" href="/university/IMUN" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/F878B0BA327C9253BBB833BF293A93D6.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="内蒙古民族大学">
+</a>
+<a class="u-usity f-fl" href="/university/SUT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/71329ECD7F8D96D447FFE0E3064EBA84.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="沈阳工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/DLMU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/EC0NQFDOLKHiBlNuAEKK_A==/6630699429303599547.png"
+width="164" height="60" alt="大连海事大学">
+</a>
+<a class="u-usity f-fl" href="/university/DLPU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/132B757AC3A3B2A5A59A16F81C235B4F.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="大连工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/DLOU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/02C72516FF2DD6191084F92663BA70DF.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="大连海洋大学">
+</a>
+<a class="u-usity f-fl" href="/university/CMU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/3EA72820544C4D8385B33C4EE425D181.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/BHU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/97B41A42EA6F1E6BA14A7D54BCCAE294.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="渤海大学">
+</a>
+<a class="u-usity f-fl" href="/university/SYNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/02AC0BD9FE0D1E3E3E5EFDBAB4D8B2A8.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="沈阳师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/DUFE" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/09E5E91B615DF01FE0353EBD8EE2345D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="东北财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/NENU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/81F50671CF673CB7FC5AEA1A52CD64D3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="东北师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/THNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/9DA93887E9A85C9F9F405040142BED35.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="通化师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/CCSFDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/647A79D0B989B3C999C0DD4B0BA3DDFF.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="长春师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/HLJU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/30C01C21B49BB1261B7DE7B857AB98AA.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="黑龙江大学">
+</a>
+<a class="u-usity f-fl" href="/university/HRBEU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/C5EA72EE4568E89678E57458916DA5B3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="哈尔滨工程大学">
+</a>
+<a class="u-usity f-fl" href="/university/HRBNU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/QTB0zDkXKFQT4p5jPajOtg==/6619502002886158184.png"
+width="164" height="60" alt="哈尔滨师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/NEAU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/A524E4C6BCC60B451E1FAC6DE0F0C1B6.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="东北农业大学">
+</a>
+<a class="u-usity f-fl" href="/university/SHU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/90049197122485659FF6FBCA7F43F9BE.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海大学">
+</a>
+<a class="u-usity f-fl" href="/university/DHU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/52953751E21EB6D5605CB5EF3B30C136.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="东华大学">
+</a>
+<a class="u-usity f-fl" href="/university/ECUST" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/2D8B505E6121AE5FD77519A67224C518.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="华东理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/SUIBE" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/8F5339D377A85AEB3DB7EEB4426C51F6.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海对外经贸大学">
+</a>
+<a class="u-usity f-fl" href="/university/SHNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/974509C71FD1017AD1751930BD1BF7F4.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/SISU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/5E3D3A37322715CEA93D944D0BEFB644.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海外国语大学">
+</a>
+<a class="u-usity f-fl" href="/university/tufc" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/8008FBD9AAE845B8EE166D511DD336D5.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/SUS" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/4FA44C7BF8969C88258DEC741B75C630.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海体育学院">
+</a>
+<a class="u-usity f-fl" href="/university/sta" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/C0A60105905159E65E7F4A57BD768B00.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海戏剧学院">
+</a>
+<a class="u-usity f-fl" href="/university/SUDA" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/FnbuqsHcF30qkp4249Xgvg==/2162009296214763890.png"
+width="164" height="60" alt="苏州大学">
+</a>
+<a class="u-usity f-fl" href="/university/NUAA" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/GdNMeL1YjEgByiLxa_5JfA==/6598061526146728817.jpg"
+width="164" height="60" alt="南京航空航天大学">
+</a>
+<a class="u-usity f-fl" href="/university/NJUST" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/w1abTer1rOW08a003Dnb3A==/1387390160307583918.jpg"
+width="164" height="60" alt="南京理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/CUMT" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/jI2WLQXnOGa_EySuYFEp2w==/2892436860696112471.png"
+width="164" height="60" alt="中国矿业大学">
+</a>
+<a class="u-usity f-fl" href="/university/NJUPT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/A5D53D6E47AC916E63916C03E3A2C639.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京邮电大学">
+</a>
+<a class="u-usity f-fl" href="/university/HHU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/5EEF34331CC28508ACED4C1E53A193E6.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="河海大学">
+</a>
+<a class="u-usity f-fl" href="/university/YCIT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/13F1F3F3941876AD514D81B465AE1FF8.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="盐城工学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJAU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/A56C38477D250474B622FAB23C223086.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京农业大学">
+</a>
+<a class="u-usity f-fl" href="/university/NJUTCM" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/35469160714E5AE395A537379A618DEA.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京中医药大学">
+</a>
+<a class="u-usity f-fl" href="/university/CPU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/F4CA02319C573A5F847049F267F40C70.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国药科大学">
+</a>
+<a class="u-usity f-fl" href="/university/PAEU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/C2D549179ADEBA71D0578C451793BB3E.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国人民解放军陆军工程大学">
+</a>
+<a class="u-usity f-fl" href="/university/NJNU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/kZJg3dGyDYl75cW16oR3qA==/6619475614607122902.jpg"
+width="164" height="60" alt="南京师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/NIPES" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/9288DD60B2D652F2851E1A587A54523C.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京体育学院">
+</a>
+<a class="u-usity f-fl" href="/university/UJS" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/7B647A7409CE6FE60BE0986CB3A47FD6.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏大学">
+</a>
+<a class="u-usity f-fl" href="/university/HDU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/DUPFJ6kBbbdldKhPAabXew==/1416945032861680277.jpg"
+width="164" height="60" alt="杭州电子科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZJUT" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/mux67MTLZNh1T6lcD_974A==/1144477255406412895.png"
+width="164" height="60" alt="浙江工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZSTU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/vPuxt4H7WthhadkJmJwT9w==/6619373360025756541.jpg"
+width="164" height="60" alt="浙江理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZJNLDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/39D5BF1BDB3227D74877A7F49EA95E38.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="浙江农林大学">
+</a>
+<a class="u-usity f-fl" href="/university/HZNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/A9085FDB5D9445DEBFDE724E265B5A1A.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="杭州师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/WZU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/9woV7Ejmp8b48lRnCRbnJw==/6631228294396450173.jpg"
+width="164" height="60" alt="温州大学">
+</a>
+<a class="u-usity f-fl" href="/university/NBU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/B3C469C496824BD20DC41CEA9F32D043.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="宁波大学">
+</a>
+<a class="u-usity f-fl" href="/university/HZIC" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/F825C68B5F2305BBFFF1A07E766E322D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="浙江工商大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZGJL" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/24085077D986B9DE3CF26C0B7433884F.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国计量大学">
+</a>
+<a class="u-usity f-fl" href="/university/HQU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/152CFFA25B9BB5D4B68D6468B12FF5B5.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="华侨大学">
+</a>
+<a class="u-usity f-fl" href="/university/FZU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/7M6GFPdMNGu9WtC3AWvHyQ==/6630869853607286901.jpg"
+width="164" height="60" alt="福州大学">
+</a>
+<a class="u-usity f-fl" href="/university/FAFU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/38C0E1859804CD6C15CBABA6D0FD9451.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="福建农林大学">
+</a>
+<a class="u-usity f-fl" href="/university/JMU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/DA5E13B6170ABD877714E650CF0E6623.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="集美大学">
+</a>
+<a class="u-usity f-fl" href="/university/FJZYY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E5E779FCFDE26FF13E5179E148706091.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="福建中医药大学">
+</a>
+<a class="u-usity f-fl" href="/university/FJNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/A0CD387B9BAA4D1A451F639826090887.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="福建师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/NCU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/DjX9HZPDanoqMQrJp51pQw==/6619576769676879909.jpg"
+width="164" height="60" alt="南昌大学">
+</a>
+<a class="u-usity f-fl" href="/university/ECJTU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/cwTxm8yUp43RD8liRNc23A==/1112952057931405008.png"
+width="164" height="60" alt="华东交通大学">
+</a>
+<a class="u-usity f-fl" href="/university/JXLGDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/4868FCF8A531DF1EB70961AB5B275F3A.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江西理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/JXNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/A02BDE7D8D927EE0584EF6382926A1B9.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江西师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/JXUFE" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/09F8FC534204E22FC135B9708B75C2D5.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江西财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/UPC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/47E1BC9FA48B9E663E78E0AEEA050B3D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国石油大学（华东）">
+</a>
+<a class="u-usity f-fl" href="/university/QUST" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/D5FE1B34C8F3C934258BEE177814EDBD.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="青岛科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZZU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/9E1A3A1799D7190025A41DD2B27530A4.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="郑州大学">
+</a>
+<a class="u-usity f-fl" href="/university/SDUTCM" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/1C53F88B15C502247268064B95923542.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="山东中医药大学">
+</a>
+<a class="u-usity f-fl" href="/university/HAUST" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/275A9B0DE31AB813D76C4F0A1F1639E3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="河南科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/HENU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/z7KFLqEd5j6OxBlyTugYWQ==/6630243131978980811.jpg"
+width="164" height="60" alt="河南大学">
+</a>
+<a class="u-usity f-fl" href="/university/WUST" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E935198E4081CD20D6FF2568E1247347.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="武汉科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/YANGTZEU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/59646BD9F2556AC48260E85C297417C8.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="长江大学">
+</a>
+<a class="u-usity f-fl" href="/university/CUG" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/1E0CAFA49D3EDCC96DF3638C74B524D3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国地质大学（武汉）">
+</a>
+<a class="u-usity f-fl" href="/university/WHUT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/FBAAFEEC0B164300476B4A2B7E1CD716.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="武汉理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/HZAU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/uh8aMiOFVlCPgKgrMimyDw==/6630927028211652294.png"
+width="164" height="60" alt="华中农业大学">
+</a>
+<a class="u-usity f-fl" href="/university/CCNU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/4YRDMehHfHmi1zrR84d5pg==/6630641155188420462.jpg"
+width="164" height="60" alt="华中师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/HUBU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/74FCB907062FAF0553A1E0F9187C7DB8.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖北大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZNUEDU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/2pR-_JcPqRYDWp4LqK0FpQ==/6630391566048537481.jpg"
+width="164" height="60" alt="中南财经政法大学">
+</a>
+<a class="u-usity f-fl" href="/university/HUAT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/697CE43D1FA4A735CF588D4D3A4C6A48.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖北汽车工业学院">
+</a>
+<a class="u-usity f-fl" href="/university/XTU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/CC12304F40BE014341EFE57BB44AF98F.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湘潭大学">
+</a>
+<a class="u-usity f-fl" href="/university/HUNAU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/PgwkJQPpqKsW2H78XwH8_A==/6630270619769787431.jpg"
+width="164" height="60" alt="湖南农业大学">
+</a>
+<a class="u-usity f-fl" href="/university/HUNNU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/dP3tIyPdosn0I6bGOQaySg==/4939604366395740423.jpg"
+width="164" height="60" alt="湖南师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/HNLGXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/66E434530E61B1AA3BA8E9D73BC7ADC3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖南理工学院">
+</a>
+<a class="u-usity f-fl" href="/university/HYNU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/FLl5Bu3aLgXdliGTtaWTaA==/4796333603250060823.jpg"
+width="164" height="60" alt="衡阳师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/CSSF" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/49DC59F6C2425144FCB6EA295D7E2A87.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="长沙师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/JNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/7508A1160E746DE33C74C61F823BA622.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="暨南大学">
+</a>
+<a class="u-usity f-fl" href="/university/scnu" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/7388B4043529A36C5CA18CB807E00A45.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="华南师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/GDIA" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/AD4BDA5D7E3B88611073D725A559BCB7.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="广东技术师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/SZU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/441B7AD64977BFF826F1034AFB685154.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="深圳大学">
+</a>
+<a class="u-usity f-fl" href="/university/GLIET" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/1B0B8F8E780DF22CFB5988095B61DDC1.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="桂林电子科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/SYXX13" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/AE868504B257F02290CCDEE619138C80.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="桂林理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/GXMZ" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/B762DCB72862914422B0A8C64436CE0B.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="广西民族大学">
+</a>
+<a class="u-usity f-fl" href="/university/GXYK" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/0DCC7BE2B3A5E9BD89609F7A949326A3.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="广西医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/gxtc" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/0226A2C1C06EE0749C2C98911EC6FE68.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南宁师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/SWJTU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/bFDdp_kqln2WGHkcksxjlA==/2858659863574366247.jpg"
+width="164" height="60" alt="西南交通大学">
+</a>
+<a class="u-usity f-fl" href="/university/SWPU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/_6iZGCyAcaWd8vWKu6w5cg==/6597277574356039911.jpg"
+width="164" height="60" alt="西南石油大学">
+</a>
+<a class="u-usity f-fl" href="/university/CUIT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/52CC3441A2FC3B0AAD2F7B4517B3E8AA-1443273985462?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="成都信息工程大学">
+</a>
+<a class="u-usity f-fl" href="/university/CDUTCM" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/D4F11FE6B67C6AA86F22F12F11B20913.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="成都中医药大学">
+</a>
+<a class="u-usity f-fl" href="/university/SWU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/6177E698A7E9090F5479E3358BB122D8.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西南大学">
+</a>
+<a class="u-usity f-fl" href="/university/SICNU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/AAI5n-WM7yXxzN3vTtlx1A==/2397603851639412266.png"
+width="164" height="60" alt="四川师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/CWNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/3D5E2F705BD3820A8592A8DD1126F691.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西华师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/SWUFE" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/F6E61C8221054E907EAE605057152AA9.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西南财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/swupl" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/FA97BD1AA073A30149E668A46582FE14.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西南政法大学">
+</a>
+<a class="u-usity f-fl" href="/university/SCCM" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/ACEC1B131888BDCA91C57B19076EED3A.JPG?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="四川音乐学院">
+</a>
+<a class="u-usity f-fl" href="/university/CDTU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/BF7D000484E19650CE474BC7BD672F1B.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="成都工业学院">
+</a>
+<a class="u-usity f-fl" href="/university/NBCJXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/8C30E549B4092B2D9283CF31A6110FAA.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="宁波财经学院">
+</a>
+<a class="u-usity f-fl" href="/university/YNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/F702F10BB5F6A8F5DF66AEC6AE3766B9.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="云南大学">
+</a>
+<a class="u-usity f-fl" href="/university/KMUST" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/8493D97828FA5E6C33B9DD24C39AC111.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="昆明理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/YNNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/923C665960B5D0EC012FC2F86D7CBFD7.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="云南师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/NWU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/bmYkVGCNyJjPdO1ea0cvkA==/6630187056885821875.jpg"
+width="164" height="60" alt="西北大学">
+</a>
+<a class="u-usity f-fl" href="/university/XAUT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/CECE08AC4401E82D35DF50DAB56474B3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西安理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/XIDIAN" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/G-s_b-s0nf-JaFg2jonq3A==/6630095797420690342.jpg"
+width="164" height="60" alt="西安电子科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/XATU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/D2FEFB3CC1CC8D52A77CBF38557FD13C.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西安工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/XAUAT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/5AB40A49FBE655E99F39D8B664A48450.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西安建筑科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/XUST" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/2484E91290AC0D83D89D0085351FF7E4.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西安科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/SUST" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/xJf_aadqTm8TeMWnNSaxEg==/6631246986094031304.jpg"
+width="164" height="60" alt="陕西科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/XPU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E49D1218736F3373EF70F617AA52EFAA.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西安工程大学">
+</a>
+<a class="u-usity f-fl" href="/university/CHD" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/2CEA2AC3EE011CB8A30617CA113A0C17.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="长安大学">
+</a>
+<a class="u-usity f-fl" href="/university/SNNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/34EACA8154AADA41F4705EE6D1C180BE.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="陕西师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/SISUEDU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/0D2D423744EFCB9FF50FAD026F47A5AB.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西安外国语大学">
+</a>
+<a class="u-usity f-fl" href="/university/FMMU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/82244E58538A1882C7E5E6ACE19CA1DD.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="第四军医大学">
+</a>
+<a class="u-usity f-fl" href="/university/XIYOU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/9B044DE307FB89903BE0C55D3103BE9A.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="西安邮电大学">
+</a>
+<a class="u-usity f-fl" href="/university/LZJTU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/733EF571EC0CDFC12EF70B030FF65AC5.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="兰州交通大学">
+</a>
+<a class="u-usity f-fl" href="/university/HXU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/AED8D7DCC2FB40EAAA03EB5315DA2612.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="河西学院">
+</a>
+<a class="u-usity f-fl" href="/university/QHU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/289A13336403BBF3824E22946E5BF188.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="青海大学">
+</a>
+<a class="u-usity f-fl" href="/university/sues" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/067CF0661A670F2397149AECAE3E437F.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海工程技术大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZJWU" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/Qy4PrrnlatP2sNLgDalp4g==/6630356381676643628.jpg"
+width="164" height="60" alt="浙江万里学院">
+</a>
+<a class="u-usity f-fl" href="/university/GZU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E2ADE50EB29505E076DB4FBE3DCB5421.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="广州大学">
+</a>
+<a class="u-usity f-fl" href="/university/WJXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/93A0DD747BA9838624E667BA2B5353B7.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国人民警察大学">
+</a>
+<a class="u-usity f-fl" href="/university/DLU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/EEF099B5045ECC92B32562D8A84F1581.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="大连大学">
+</a>
+<a class="u-usity f-fl" href="/university/NAU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/955E6E38864B5553A2487B5BBDC5CBBA.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京审计大学">
+</a>
+<a class="u-usity f-fl" href="/university/CUMTB" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/296BE569DA1D0F889AB0844D4D973B39.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国矿业大学（北京）">
+</a>
+<a class="u-usity f-fl" href="/university/BUU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/FD3EAD1F8F0995F4A8D3B0CEFA1BD866.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京联合大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZUFE" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/F9CFA0657515A51E20E36539AADBDA39.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="浙江财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/XYC" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/849CDE73A1FE46B3C22BC697E656D012.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="新余学院">
+</a>
+<a class="u-usity f-fl" href="/university/HBEU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/4413EA99DECCCAF357D815B01F62D29D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖北经济学院">
+</a>
+<a class="u-usity f-fl" href="/university/HAINNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/5F116AE6B28A0566571FF6B9E3C178AC.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="海南师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/CCEC" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/L2dsWNUjR-rPGFjb2bxyTA==/6608249600889284251.png"
+width="164" height="60" alt="山东工商学院">
+</a>
+<a class="u-usity f-fl" href="/university/CTBU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/845AA7EE5A397BA259D9CF5AAB748007.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="重庆工商大学">
+</a>
+<a class="u-usity f-fl" href="/university/GDUFS" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/50B75F5134D63CACD53E3C357D9A2D5C.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="广东外语外贸大学">
+</a>
+<a class="u-usity f-fl" href="/university/HDDYSF" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/B7F742A7F5A4D78B63C68274A59BB182.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖南第一师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/NFYKDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/004B80E0788C5C3C1DB5E7D570B0A2E3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南方医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/NCGXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E84199729F5E295E8BA85C5A13676676.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南昌工学院">
+</a>
+<a class="u-usity f-fl" href="/university/FJYKDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/5F3FAAA7299B8A9EC94D7092F952BF5C.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="福建医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZUCC" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/apQUxNFsJLGZ-a_2UZr0CQ==/2396477951732481351.png"
+width="164" height="60" alt="浙江大学城市学院">
+</a>
+<a class="u-usity f-fl" href="/university/GIT" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/eXhxEkf5CHgMLA8-QMU9Gw==/6619128168933501685.png"
+width="164" height="60" alt="贵州理工学院">
+</a>
+<a class="u-usity f-fl" href="/university/CCSU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/JmaEOFG7LViaNtENML_yIQ==/638666722174491510.jpg"
+width="164" height="60" alt="长沙学院">
+</a>
+<a class="u-usity f-fl" href="/university/CDU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/33528CA054726EF9F21F1AA6F1D060C8.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="成都大学">
+</a>
+<a class="u-usity f-fl" href="/university/LNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/A8A2147D7DB2651D2F4DEC61D4D0BFC8.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="岭南师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/WMU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/A91FF25334C5C5EF1027D761FA6A0590.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="温州医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/BJCMA" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/9597F70C1405BFB7B719DE9A0935912F.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="北京现代音乐研修学院">
+</a>
+<a class="u-usity f-fl" href="/university/TIT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/BE3682732A623D83D571D73B5448EFA2.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="太原工业学院">
+</a>
+<a class="u-usity f-fl" href="/university/FZFU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/88FECBA492E3885013F11B0932ADF360.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="福州外语外贸学院">
+</a>
+<a class="u-usity f-fl" href="/university/GZARTS" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/BAE09BDB1063D646358D9271688700CC.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="广州美术学院">
+</a>
+<a class="u-usity f-fl" href="/university/HFNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/DAA239DE3ED8A1A97ACB62AD1BC972BC.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="合肥师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/SSU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/00F642D611BE1AF8349AC55AB11AE5E5.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="山东体育学院">
+</a>
+<a class="u-usity f-fl" href="/university/SCITI" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/8F2611C6C9399986FAFFE621CE602DE7.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="四川信息职业技术学院">
+</a>
+<a class="u-usity f-fl" href="/university/TJXDZY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/9A88D3543F3B8167EB244C2B06164830.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="天津现代职业技术学院">
+</a>
+<a class="u-usity f-fl" href="/university/HEUET" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/2C5E8EE311AE21A0F8D63713E6241940.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="河北经贸大学">
+</a>
+<a class="u-usity f-fl" href="/university/USTS" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/A16D9F79C55BFA250A42D11E223DDD57.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="苏州科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/JUST" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/TeL3mtBMVppw2tw0igy6fg==/6619069894817210969.jpg"
+width="164" height="60" alt="江苏科技大学">
+</a>
+<a class="u-usity f-fl" href="/university/JIT" target="_blank">
+<img class="" id=""
+src="https://img2.ph.126.net/BZFDHWUDU5cC3f784mUwbg==/2450239672284172493.jpg"
+width="164" height="60" alt="金陵科技学院">
+</a>
+<a class="u-usity f-fl" href="/university/SJU" target="_blank">
+<img class="" id=""
+src="https://img1.ph.126.net/I9pw2cK-d-Yxlx5sGnSaWQ==/6630391566048255370.png"
+width="164" height="60" alt="三江学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJIT" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/7vcUZR7C_06beBAZnm_-3A==/6630616965932152893.jpg"
+width="164" height="60" alt="南京工程学院">
+</a>
+<a class="u-usity f-fl" href="/university/YCTC" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/Dz3Ri1EIJLKUJzsVhHUaPQ==/6630425650909355838.jpg"
+width="164" height="60" alt="盐城师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJTY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/B7B6B23C08346874A55E2F0450E0065C.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京特殊教育师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/CSLG" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/5D755CC8B5233AB076B6E1D31C005E5A.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="常熟理工学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJUE" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/ADC8F19081A3CCBB16B6DD86179127AF.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京财经大学">
+</a>
+<a class="u-usity f-fl" href="/university/XZNU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/A53D3664B32C8E02EBEEE1BF4B40C7C3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏师范大学">
+</a>
+<a class="u-usity f-fl" href="/university/HYTC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/57A815D8DD74E3CCC263ADFA97649D13.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="淮阴师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJFU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/90D5662867394CFA2743BB19EA43D62D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京林业大学">
+</a>
+<a class="u-usity f-fl" href="/university/NJTECH" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/5BFF92B0BE6ECE2C59AF15B022D7EBA0.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京工业大学">
+</a>
+<a class="u-usity f-fl" href="/university/JSTU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/8F97384AFD6AD7781894FCC85E090B7D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏理工学院">
+</a>
+<a class="u-usity f-fl" href="/university/CZU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/1B3D676C08F9E0C24D82573648097080.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="常州工学院">
+</a>
+<a class="u-usity f-fl" href="/university/JIANGNAN" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/61AF2F5DF4E69A16C06C5F8498F40FFF.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江南大学">
+</a>
+<a class="u-usity f-fl" href="/university/THXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/88505C0A7931769560E226E1177CC95D.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="无锡太湖学院">
+</a>
+<a class="u-usity f-fl" href="/university/TZSZ" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/CD5D70B9EF2761E8C09BB5A1F7DCA629.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="泰州学院">
+</a>
+<a class="u-usity f-fl" href="/university/SQC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/5E11885FAF004D5E079E30477670DBC0.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="宿迁学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJMU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/C7352034BF98B31FD84BD602B73A06E4.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/FORESTPOLICE" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/1CC227B4342C94F3C8344D707B220784.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京森林警察学院">
+</a>
+<a class="u-usity f-fl" href="/university/JSIE" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/F7FCE532E2CD25621AC87255B5B72F03.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏第二师范学院">
+</a>
+<a class="u-usity f-fl" href="/university/CCZU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/CE8C4BCDA7623A042FA5374B3074EBF2.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="常州大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZLVC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/2C0A8142FD8B6B3212CEB013045AB7DD.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南通理工学院">
+</a>
+<a class="u-usity f-fl" href="/university/XZMC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/10257855F6D19C5220373A76935F9C05.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="徐州医科大学">
+</a>
+<a class="u-usity f-fl" href="/university/HYIT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/46D298CDD3BB31916BFF7B9CD0139F08.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="淮阴工学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJARTY" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/99B0A13515267172501F0BC41D7C6E17.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京艺术学院">
+</a>
+<a class="u-usity f-fl" href="/university/NJXZC" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/866EF56FD9AE253A91E832A42BF53683.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京晓庄学院">
+</a>
+<a class="u-usity f-fl" href="/university/YZU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/5FCD7934F70F8FB4794ABA2B5CEF44D8.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="扬州大学">
+</a>
+<a class="u-usity f-fl" href="/university/JSPI" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/D5E57B12C14E04D06F57AC58AC31B57D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏警官学院">
+</a>
+<a class="u-usity f-fl" href="/university/NTU" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/B604363DC8876ED8DD1ECC16E817CCC7.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南通大学">
+</a>
+<a class="u-usity f-fl" href="/university/XZIT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/B6FAC7ACBC761414D94A5CA9E84F25A8.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="徐州工程学院">
+</a>
+<a class="u-usity f-fl" href="/university/HHIT" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/4681B41C3B5A6F2D27FD887C1D68B4BD.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="淮海工学院">
+</a>
+<a class="u-usity f-fl" href="/university/JSOU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/2EAC3DC21226EE6D791FF0BE7F31656A.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏开放大学">
+</a>
+<a class="u-usity f-fl" href="/university/JSXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/007D4351D05B45C495ED7DB92F3CB960.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京审计大学金审学院">
+</a>
+<a class="u-usity f-fl" href="/university/JLXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/26AAE43A91D1D35FB29CBC0502D4F41D.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京大学金陵学院">
+</a>
+<a class="u-usity f-fl" href="/university/ZJNJUST" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/773FC80E22DF73401F57D7EBB911201F.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京理工大学紫金学院">
+</a>
+<a class="u-usity f-fl" href="/university/BJXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/3A1FE79CDC1B5B2924E1F3AF15C6FEE7.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京信息工程大学滨江学院">
+</a>
+<a class="u-usity f-fl" href="/university/KWXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/B47CCFA1FF6FA0400B27A55A205BB712.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏师范大学科文学院">
+</a>
+<a class="u-usity f-fl" href="/university/SZLGJUST" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/4282DDE4BB7E622DABCC19533045AA4D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="江苏科技大学苏州理工学院">
+</a>
+<a class="u-usity f-fl" href="/university/ZBNJNU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/82FC6E1B3123451B3755FADF81B0248D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京师范大学中北学院">
+</a>
+<a class="u-usity f-fl" href="/university/HSNUFE" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/6B36B40D52446D4D24906D9835C9D338.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京财经大学红山学院">
+</a>
+<a class="u-usity f-fl" href="/university/SDWZ" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/DE15454F14F87883AC9141B33A92BE6F.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="苏州大学文正学院">
+</a>
+<a class="u-usity f-fl" href="/university/NUSTTI" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/CEE81D7A6DB96006F942AC5586DE7F1C.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京理工大学泰州科技学院">
+</a>
+<a class="u-usity f-fl" href="/university/TPXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/B518FDC41C2D668DC8F77168FDE12398.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="苏州科技大学天平学院">
+</a>
+<a class="u-usity f-fl" href="/university/NNUTC" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/C77EE486D116C488649F18BD7F1BC3AD.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="南京师范大学泰州学院">
+</a>
+<a class="u-usity f-fl" href="/university/XHXY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/4705DE620B3D31414E9DD86E9FAC81C8.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国矿业大学徐海学院">
+</a>
+<a class="u-usity f-fl" href="/university/SHOU" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/2F04257CC11D13AF4C02A6307BAA5D4D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海海洋大学">
+</a>
+<a class="u-usity f-fl" href="/university/ZJZYY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/0A4A8DBE8225AC2166711F50787FE2AC.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="浙江中医药大学">
+</a>
+<a class="u-usity f-fl" href="/university/NBUT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/0ED077A89632DFF655BB92DF78FE15E4.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="宁波工程学院">
+</a>
+<a class="u-usity f-fl" href="/university/SIT" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/1C32E69B69C0810F4AEDF99D72DBF246.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="上海应用技术大学">
+</a>
+<a class="u-usity f-fl" href="/university/hep" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/89CA5E7F35639D7EE92BB37A1C987E68.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="高等教育出版社">
+</a>
+<a class="u-usity f-fl" href="/university/HEPSVE" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/2AED0CDE067BF5F06EFBF837A3219A28-1444282728077?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="职教MOOC建设委员会">
+</a>
+<a class="u-usity f-fl" href="/university/cse" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/1F64D70A98BB59545E20A0F84C9965E3.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国教育学会">
+</a>
+<a class="u-usity f-fl" href="/university/icourse" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/F87B4A6F0A0D123D144F9BC87DC6A77D.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="爱课程">
+</a>
+<a class="u-usity f-fl" href="/university/hepte" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/1F5D1C1B28147CEB59C9640BC07F06F5.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="教师教育课程中心">
+</a>
+<a class="u-usity f-fl" href="/university/irong" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/4CCD5C59E53DEEC9C8FFF0326CA00480.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖北长江互联网教育研究院">
+</a>
+<a class="u-usity f-fl" href="/university/cumcm" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/6449C200C5F83CE37CE3978A0C359239.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="全国大学生数学建模竞赛组织委员会">
+</a>
+<a class="u-usity f-fl" href="/university/chesicc" target="_blank">
+<img class="" id=""
+src="https://nos.netease.com/edu-image/008F12C53F9B1072EBED5C96C8AC1E7D.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="全国高等学校学生信息咨询与就业指导中心">
+</a>
+<a class="u-usity f-fl" href="/university/LIS" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/CEFCF4325DE5FCA525B9D3F12C56DCD5.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="图书馆（学）在线课程联盟">
+</a>
+<a class="u-usity f-fl" href="/university/TOUC" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/E61E20B265E3194C0A06BD7B356E9C63.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="国家开放大学">
+</a>
+<a class="u-usity f-fl" href="/university/SCF" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/9754C3611DE7624BCA7AD7132E0FE6C5.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="四川计算机学会">
+</a>
+<a class="u-usity f-fl" href="/university/UCASS" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/6F68AB89E2224F34C289217A8B2D1705.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中国社会科学院大学">
+</a>
+<a class="u-usity f-fl" href="/university/ISCAS" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/F11B5186DD33F7F2584739FA16CBB969.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="中科院软件所-重德智能机器人联合研究中心">
+</a>
+<a class="u-usity f-fl" href="/university/itxdl" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/EDE262DE918FA56B49048A5AC9963559.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="兄弟连教育">
+</a>
+<a class="u-usity f-fl" href="/university/viontech" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/6FAF64CEB7EB64B4C00CAAC562FB1135.png?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="文安智能">
+</a>
+<a class="u-usity f-fl" href="/university/NEFU" target="_blank">
+<img class="" id=""
+src="https://img0.ph.126.net/9dg9qyKSuQHupZc00XdLUQ==/2855282163853848009.jpg"
+width="164" height="60" alt="东北林业大学">
+</a>
+<a class="u-usity f-fl" href="/university/CDLGDX" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/4BF8A0F7B344F667530526EADB4F4629.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="成都理工大学">
+</a>
+<a class="u-usity f-fl" href="/university/HNJDZY" target="_blank">
+<img class="" id=""
+src="https://edu-image.nosdn.127.net/2A3081E3D91E7BDF90A207617FA0E896.jpg?imageView&thumbnail=220y80&quality=100"
+width="164" height="60" alt="湖南机电职业技术学院">
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="g-wrap m-foot f-pr" id="j-footer">
+<div class="g-flow f-cb">
+<div class="f1 f-fl">
+<div class="logo"></div>
+<p class="f-fc14 f-fc9">由高教社联手网易推出，让每一个有提升愿望的用户能够学到中国知名高校的课程，并获得认证。</p>
+</div>
+<div class="f4 f-fr f-pr">
+<h4 class="f-fcc">友情链接</h4>
+<div class="f-cb">
+<a href="https://www.kada.com/?utm_source=www.icourse163.org/&utm_medium=bottom_links&utm_campaign=business&utm_content=kada2018092902" target="_blank" class="f-fc9 f4a">网易卡搭编程</a>
+<a href="//study.163.com/" target="_blank" class="f-fc9 f4a">网易云课堂</a>
+<a href="//100.163.com/" target="_blank" class="f-fc9 f4a">网易100分</a>
+</div>
+</div>
+<div class="f3 f-fr f-pr">
+<h4 class="f-fcc">关注我们</h4>
+<div class="f-cb">
+<a class="f-icon f-fc9 u-icon-weixin weixin gzIc f-pr f-fl">
+<div class="tipQrcode f-pa">
+<div class="qrImag">
+<img src="//edu-image.nosdn.127.net/ceff46a7-e151-4a3a-b208-90e41721870c.jpg?imageView&thumbnail=860y860&quality=100" width="120px" height="120px" alt="加中M微信好友">
+</div>
+<div class="tip f-pa"></div>
+</div>
+</a>
+<a href="//weibo.com/icourse163" target="_blank" class="f-icon f-fc9 gzIc f-fs1 f-fl u-icon-weibo weibo"></a>
+</div>
+</div>
+<div class="f2 f-fr f-pr">
+<h4 class="f-fcc">关于我们</h4>
+<div class="f-cb">
+<a href="/about/aboutus.htm" target="_blank" class="f-fc9 f2a">关于我们</a>
+<a href="/spoc/schoolcloud/index.htm" target="_blank" class="f-fc9 f2a">学校云</a>
+<a href="/about/contactus.htm#/contactus?type=2" target="_blank" class="f-fc9 f2a">联系我们</a>
+<a href="/help/help.htm" target="_blank" class="f-fc9 f2a">常见问题</a>
+<a href="/about/contactus.htm#/contactus?type=4" target="_blank" class="f-fc9 f2a">意见反馈</a>
+<a href="/about/contactus.htm#/contactus?type=5" target="_blank" class="f-fc9 f2a">法律条款</a>
+</div>
+</div>
+</div>
+<div class="beian"><p class="f-fc12 f-fc6"> <a class="f-fc6" target="_blank" href="//www.miitbeian.gov.cn/state/outPortal/loginPortal.action">粤B2-20090191-26</a> | 京ICP备12020869号-2 | <a class="f-fc6" target="_blank" href="//www.beian.gov.cn/portal/registerSystemInfo?recordcode=44010602000207">京公网安备44010602000207</a> <br>©2014-2019 icourse163.org </p></div>
+</div>
+</div>
+<script>
+</script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/core_9a4f688e13028fea069a58fca707b8db.js"></script>
+<script onerror="javascript:window.errorEventHandler && window.errorEventHandler(event)" src="//mc.stu.126.net/pub/s/pt_web_university_all_2885d5c5808731c5610ad98578704fca.js"></script>
+<script type="text/javascript">
+(function(){
+var bp = document.createElement('script');
+var curProtocol = window.location.protocol.split(':')[0];
+if (curProtocol === 'https') {
+bp.src = '//zz.bdstatic.com/linksubmit/push.js';
+}
+else {
+bp.src = '//push.zhanzhang.baidu.com/push.js';
+}
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(bp, s);
+})();
+// (function(){
+// var src = (document.location.protocol == "http:") ? "//js.passport.qihucdn.com/11.0.1.js?8c55f3ce5a3a2c16bf18ef5d07963b1f":"//jspassport.ssl.qhimg.com/11.0.1.js?8c55f3ce5a3a2c16bf18ef5d07963b1f";
+// document.write('<script src="' + src + '" id="sozz"><\/script>');
+// })();
+</script>
+</body>
+</html>
