@@ -1,0 +1,19 @@
+from MyQR import myqr
+myqr.run("https://github.com/liuawen")
+myqr.run(
+    words="https://www.github.com/liuawen",
+    picture="Sources/ssss.jpg",
+    save_name="artistic.png",
+)
+myqr.run(
+    words="https://www.github.com/liuawen",
+    picture="Sources/ssss.jpg",
+    colorized=True,
+    save_name='artistic_Color.png',
+)
+myqr.run(
+    words="https://github.com/liuawen",
+    picture="Sources/gakki.gif",
+    colorized=True,
+    save_name="Animated.gif",
+)
